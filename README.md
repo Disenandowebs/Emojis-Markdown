@@ -4,27 +4,25 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 ## NÚMEROS Y LETRA A
 
-| Emoji  | código |  
-| ------------- | ------------- |
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :-1:  | `:-1:`  |
 | :100:  | `:100:`  |
 | :1234:  | `:1234:` |  
 | :+1: | `:+1:` |
 | :a:  | `:a:`  |
 | :ab:  | `:ab:`  |
-| ::  | `::`  |
-| ::  | `::`  |
-a
-ab
-abc
-abcd
-accept
-aerial_tramway
-airplane
-alarm_clock
-alien
-ambulance
-anchor
+| :abc:  | `:abc:`  |
+| :abcd:  | `:abcd:`  |
+| :accept:  | `:accept:`  |
+| :aerial_tramway:  | `:aerial_tramway:` |  
+| :airplane: | `:airplane:` |
+| :alarm_clock:  | `:alarm_clock:`  |
+| :alien:  | `:alien:`  |
+| :ambulance:  | `:ambulance:`  |
+| :anchor:  | `:anchor:`  |
+| :ambulance:  | `:ambulance:`  |
+| :anchor:  | `:anchor:`  |
 angel
 anger
 angry
