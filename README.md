@@ -21,10 +21,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :alien:  | `:alien:`  |
 | :ambulance:  | `:ambulance:`  |
 | :anchor:  | `:anchor:`  |
-| :ambulance:  | `:ambulance:`  |
-| :anchor:  | `:anchor:`  |
-angel
-anger
+| :angel:  | `:angel:`  |
+| :anger:  | `:anger:`  |
 angry
 anguished
 ant
