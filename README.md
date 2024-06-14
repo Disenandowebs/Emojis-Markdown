@@ -6,11 +6,11 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| :-1:  | `:-1:`  |
-| :100:  | `:100:`  |
-| :1234:  | `:1234:` |  
-| :+1: | `:+1:` |
-| :a:  | `:a:`  |
+| :-1:  | `:-1:`  | :angry:  | `:angry:`  | :-1:  | `:-1:`  |
+| :100:  | `:100:`  | :anguished:  | `:anguished:`  | :100:  | `:100:`  |
+| :1234:  | `:1234:` | :ant:  | `:ant:` | :1234:  | `:1234:` |
+| :+1: | `:+1:` | :+1: | `:+1:` | :+1: | `:+1:` |
+| :a:  | `:a:`  | :a:  | `:a:`  | :a:  | `:a:`  |
 | :ab:  | `:ab:`  |
 | :abc:  | `:abc:`  |
 | :abcd:  | `:abcd:`  |
@@ -23,9 +23,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :anchor:  | `:anchor:`  |
 | :angel:  | `:angel:`  |
 | :anger:  | `:anger:`  |
-angry
-anguished
-ant
+
+
+
 apple
 aquarius
 aries
