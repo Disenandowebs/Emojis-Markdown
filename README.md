@@ -11,11 +11,11 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :1234:  | `:1234:` | :ant:  | `:ant:` | :1234:  | `:1234:` |
 | :+1: | `:+1:` | :apple: | `:apple:` | :+1: | `:+1:` |
 | :a:  | `:a:`  | :aquarius:  | `:aquarius:`  | :a:  | `:a:`  |
-| :ab:  | `:ab:`  |
-| :abc:  | `:abc:`  |
-| :abcd:  | `:abcd:`  |
-| :accept:  | `:accept:`  |
-| :aerial_tramway:  | `:aerial_tramway:` |  
+| :ab:  | `:ab:`  | :aries:  | `:aries:`  | :ab:  | `:ab:`  |
+| :abc:  | `:abc:`  | :arrow_backward:  | `:arrow_backward:`  | :abc:  | `:abc:`  |
+| :abcd:  | `:abcd:`  | :arrow_double_down:  | `:arrow_double_down:`  | :abcd:  | `:abcd:`  |
+| :accept:  | `:accept:`  | :accept:  | `:accept:`  | :accept:  | `:accept:`  |
+| :aerial_tramway:  | `:aerial_tramway:` | :aerial_tramway:  | `:aerial_tramway:` | :aerial_tramway:  | `:aerial_tramway:` |
 | :airplane: | `:airplane:` |
 | :alarm_clock:  | `:alarm_clock:`  |
 | :alien:  | `:alien:`  |
@@ -23,13 +23,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :anchor:  | `:anchor:`  |
 | :angel:  | `:angel:`  |
 | :anger:  | `:anger:`  |
-
-
-
-
-
-aries
-arrow_backward
 arrow_double_down
 arrow_double_up
 arrow_down
