@@ -4,13 +4,16 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 ## NÚMEROS Y LETRA A
 
-| Emoji  | código |
+| Emoji  | código |  
 | ------------- | ------------- |
 | :-1:  | `:-1:`  |
 | :100:  | `:100:`  |
-1234  :1234:  
-+1
-8ball
+| :1234:  | `:1234:` |  
+| :+1: | `:+1:` |
+| :a:  | `:a:`  |
+| :ab:  | `:ab:`  |
+| ::  | `::`  |
+| ::  | `::`  |
 a
 ab
 abc
