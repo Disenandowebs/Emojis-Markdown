@@ -14,8 +14,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :ab:  | `:ab:`  | :aries:  | `:aries:`  | :ab:  | `:ab:`  |
 | :abc:  | `:abc:`  | :arrow_backward:  | `:arrow_backward:`  | :abc:  | `:abc:`  |
 | :abcd:  | `:abcd:`  | :arrow_double_down:  | `:arrow_double_down:`  | :abcd:  | `:abcd:`  |
-| :accept:  | `:accept:`  | :accept:  | `:accept:`  | :accept:  | `:accept:`  |
-| :aerial_tramway:  | `:aerial_tramway:` | :aerial_tramway:  | `:aerial_tramway:` | :aerial_tramway:  | `:aerial_tramway:` |
+| :accept:  | `:accept:`  | :arrow_double_up:  | `:arrow_double_up:`  | :accept:  | `:accept:`  |
+| :aerial_tramway:  | `:aerial_tramway:` | :arrow_down:  | `:arrow_down:` | :aerial_tramway:  | `:aerial_tramway:` |
 | :airplane: | `:airplane:` |
 | :alarm_clock:  | `:alarm_clock:`  |
 | :alien:  | `:alien:`  |
@@ -23,9 +23,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :anchor:  | `:anchor:`  |
 | :angel:  | `:angel:`  |
 | :anger:  | `:anger:`  |
-arrow_double_down
-arrow_double_up
-arrow_down
+
+
+
 arrow_down_small
 arrow_forward
 arrow_heading_down
