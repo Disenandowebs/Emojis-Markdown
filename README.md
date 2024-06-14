@@ -9,8 +9,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :-1:  | `:-1:`  | :angry:  | `:angry:`  | :-1:  | `:-1:`  |
 | :100:  | `:100:`  | :anguished:  | `:anguished:`  | :100:  | `:100:`  |
 | :1234:  | `:1234:` | :ant:  | `:ant:` | :1234:  | `:1234:` |
-| :+1: | `:+1:` | :+1: | `:+1:` | :+1: | `:+1:` |
-| :a:  | `:a:`  | :a:  | `:a:`  | :a:  | `:a:`  |
+| :+1: | `:+1:` | :apple: | `:apple:` | :+1: | `:+1:` |
+| :a:  | `:a:`  | :aquarius:  | `:aquarius:`  | :a:  | `:a:`  |
 | :ab:  | `:ab:`  |
 | :abc:  | `:abc:`  |
 | :abcd:  | `:abcd:`  |
@@ -26,8 +26,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-apple
-aquarius
+
+
 aries
 arrow_backward
 arrow_double_down
