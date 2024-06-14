@@ -1,4 +1,4 @@
-# emojisMarkdown
+# Emojis para Markdown
 
 Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicaciones, que también pueden ser usados para Markdown en repositorios de Github. Están ordenados en orden alfabético y no por las categorías comunes, al menos así es más fácil para mi encontrar el emoji que me interesa encontrar. Como consejo para la búsqueda es mejor utilizar el idioma Inglés.
 
