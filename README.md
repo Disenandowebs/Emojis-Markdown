@@ -19,10 +19,10 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :airplane: | `:airplane:` | :arrow_down_small: | `:arrow_down_small:` | :articulated_lorry: | `:articulated_lorry:` |
 | :alarm_clock:  | `:alarm_clock:`  | :arrow_forward:  | `:arrow_forward:`  | :astonished:  | `:astonished:`  |
 | :alien:  | `:alien:`  | :arrow_heading_down:  | `:arrow_heading_down:`  | :atm:  | `:atm:`  |
-| :ambulance:  | `:ambulance:`  | :arrow_heading_up:  | `:arrow_heading_up:`  | ::  | `::`  |
-| :anchor:  | `:anchor:`  | :arrow_left:  | `:arrow_left:`  | :anchor:  | `:anchor:`  |
-| :angel:  | `:angel:`  | :arrow_lower_left:  | `:arrow_lower_left:`  | :angel:  | `:angel:`  |
-| :anger:  | `:anger:`  | :arrow_lower_right:  | `:arrow_lower_right:`  | :anger:  | `:anger:`  |
+| :ambulance:  | `:ambulance:`  | :arrow_heading_up:  | `:arrow_heading_up:`  |   |   |
+| :anchor:  | `:anchor:`  | :arrow_left:  | `:arrow_left:`  |   |   |
+| :angel:  | `:angel:`  | :arrow_lower_left:  | `:arrow_lower_left:`  |   |   |
+| :anger:  | `:anger:`  | :arrow_lower_right:  | `:arrow_lower_right:`  |   |   |
 
 
 
