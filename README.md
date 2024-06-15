@@ -6,10 +6,10 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| :-1:  | `:-1:`  | :angry:  | `:angry:`  | :-1:  | `:-1:`  |
-| :100:  | `:100:`  | :anguished:  | `:anguished:`  | :100:  | `:100:`  |
-| :1234:  | `:1234:` | :ant:  | `:ant:` | :1234:  | `:1234:` |
-| :+1: | `:+1:` | :apple: | `:apple:` | :+1: | `:+1:` |
+| :-1:  | `:-1:`  | :angry:  | `:angry:`  | :arrow_right:  | `:arrow_right:`  |
+| :100:  | `:100:`  | :anguished:  | `:anguished:`  | :arrow_right_hook:  | `:arrow_right_hook:`  |
+| :1234:  | `:1234:` | :ant:  | `:ant:` | :arrow_up:  | `:arrow_up:` |
+| :+1: | `:+1:` | :apple: | `:apple:` | :arrow_up_down: | `:arrow_up_down:` |
 | :a:  | `:a:`  | :aquarius:  | `:aquarius:`  | :a:  | `:a:`  |
 | :ab:  | `:ab:`  | :aries:  | `:aries:`  | :ab:  | `:ab:`  |
 | :abc:  | `:abc:`  | :arrow_backward:  | `:arrow_backward:`  | :abc:  | `:abc:`  |
@@ -23,10 +23,10 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :anchor:  | `:anchor:`  | :arrow_left:  | `:arrow_left:`  | :anchor:  | `:anchor:`  |
 | :angel:  | `:angel:`  | :arrow_lower_left:  | `:arrow_lower_left:`  | :angel:  | `:angel:`  |
 | :anger:  | `:anger:`  | :arrow_lower_right:  | `:arrow_lower_right:`  | :anger:  | `:anger:`  |
-arrow_right
-arrow_right_hook
-arrow_up
-arrow_up_down
+
+
+
+
 arrow_up_small
 arrow_upper_left
 arrow_upper_right
