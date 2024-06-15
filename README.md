@@ -16,10 +16,10 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :abcd:  | `:abcd:`  | :arrow_double_down:  | `:arrow_double_down:`  | :arrows_clockwise:  | `:arrows_clockwise:`  |
 | :accept:  | `:accept:`  | :arrow_double_up:  | `:arrow_double_up:`  | :arrows_counterclockwise:  | `:arrows_counterclockwise:`  |
 | :aerial_tramway:  | `:aerial_tramway:` | :arrow_down:  | `:arrow_down:` | :art:  | `:art:` |
-| :airplane: | `:airplane:` | :arrow_down_small: | `:arrow_down_small:` | :airplane: | `:airplane:` |
-| :alarm_clock:  | `:alarm_clock:`  | :arrow_forward:  | `:arrow_forward:`  | :alarm_clock:  | `:alarm_clock:`  |
-| :alien:  | `:alien:`  | :arrow_heading_down:  | `:arrow_heading_down:`  | :alien:  | `:alien:`  |
-| :ambulance:  | `:ambulance:`  | :arrow_heading_up:  | `:arrow_heading_up:`  | :ambulance:  | `:ambulance:`  |
+| :airplane: | `:airplane:` | :arrow_down_small: | `:arrow_down_small:` | :articulated_lorry: | `:articulated_lorry:` |
+| :alarm_clock:  | `:alarm_clock:`  | :arrow_forward:  | `:arrow_forward:`  | :astonished:  | `:astonished:`  |
+| :alien:  | `:alien:`  | :arrow_heading_down:  | `:arrow_heading_down:`  | :atm:  | `:atm:`  |
+| :ambulance:  | `:ambulance:`  | :arrow_heading_up:  | `:arrow_heading_up:`  | ::  | `::`  |
 | :anchor:  | `:anchor:`  | :arrow_left:  | `:arrow_left:`  | :anchor:  | `:anchor:`  |
 | :angel:  | `:angel:`  | :arrow_lower_left:  | `:arrow_lower_left:`  | :angel:  | `:angel:`  |
 | :anger:  | `:anger:`  | :arrow_lower_right:  | `:arrow_lower_right:`  | :anger:  | `:anger:`  |
@@ -33,9 +33,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-articulated_lorry
-astonished
-atm
+
+
+
 
 https://platzi.com/comunidad/listado-completo-de-emojis-en-markdown/
 
