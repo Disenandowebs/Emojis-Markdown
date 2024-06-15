@@ -16,9 +16,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :abcd:  | `:abcd:`  | :arrow_double_down:  | `:arrow_double_down:`  | :abcd:  | `:abcd:`  |
 | :accept:  | `:accept:`  | :arrow_double_up:  | `:arrow_double_up:`  | :accept:  | `:accept:`  |
 | :aerial_tramway:  | `:aerial_tramway:` | :arrow_down:  | `:arrow_down:` | :aerial_tramway:  | `:aerial_tramway:` |
-| :airplane: | `:airplane:` |
-| :alarm_clock:  | `:alarm_clock:`  |
-| :alien:  | `:alien:`  |
+| :airplane: | `:airplane:` | :airplane: | `:airplane:` | :airplane: | `:airplane:` |
+| :alarm_clock:  | `:alarm_clock:`  | :alarm_clock:  | `:alarm_clock:`  | :alarm_clock:  | `:alarm_clock:`  |
+| :alien:  | `:alien:`  | :alien:  | `:alien:`  | :alien:  | `:alien:`  |
 | :ambulance:  | `:ambulance:`  |
 | :anchor:  | `:anchor:`  |
 | :angel:  | `:angel:`  |
