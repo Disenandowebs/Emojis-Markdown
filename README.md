@@ -10,9 +10,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :100:  | `:100:`  | :anguished:  | `:anguished:`  | :arrow_right_hook:  | `:arrow_right_hook:`  |
 | :1234:  | `:1234:` | :ant:  | `:ant:` | :arrow_up:  | `:arrow_up:` |
 | :+1: | `:+1:` | :apple: | `:apple:` | :arrow_up_down: | `:arrow_up_down:` |
-| :a:  | `:a:`  | :aquarius:  | `:aquarius:`  | :a:  | `:a:`  |
-| :ab:  | `:ab:`  | :aries:  | `:aries:`  | :ab:  | `:ab:`  |
-| :abc:  | `:abc:`  | :arrow_backward:  | `:arrow_backward:`  | :abc:  | `:abc:`  |
+| :a:  | `:a:`  | :aquarius:  | `:aquarius:`  | :arrow_up_small:  | `:arrow_up_small:`  |
+| :ab:  | `:ab:`  | :aries:  | `:aries:`  | :arrow_upper_left:  | `:arrow_upper_left:`  |
+| :abc:  | `:abc:`  | :arrow_backward:  | `:arrow_backward:`  | :arrow_upper_right:  | `:arrow_upper_right:`  |
 | :abcd:  | `:abcd:`  | :arrow_double_down:  | `:arrow_double_down:`  | :abcd:  | `:abcd:`  |
 | :accept:  | `:accept:`  | :arrow_double_up:  | `:arrow_double_up:`  | :accept:  | `:accept:`  |
 | :aerial_tramway:  | `:aerial_tramway:` | :arrow_down:  | `:arrow_down:` | :aerial_tramway:  | `:aerial_tramway:` |
@@ -27,9 +27,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-arrow_up_small
-arrow_upper_left
-arrow_upper_right
+
+
+
 arrows_clockwise
 arrows_counterclockwise
 art
