@@ -16,19 +16,19 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :abcd:  | `:abcd:`  | :arrow_double_down:  | `:arrow_double_down:`  | :abcd:  | `:abcd:`  |
 | :accept:  | `:accept:`  | :arrow_double_up:  | `:arrow_double_up:`  | :accept:  | `:accept:`  |
 | :aerial_tramway:  | `:aerial_tramway:` | :arrow_down:  | `:arrow_down:` | :aerial_tramway:  | `:aerial_tramway:` |
-| :airplane: | `:airplane:` | :airplane: | `:airplane:` | :airplane: | `:airplane:` |
-| :alarm_clock:  | `:alarm_clock:`  | :alarm_clock:  | `:alarm_clock:`  | :alarm_clock:  | `:alarm_clock:`  |
-| :alien:  | `:alien:`  | :alien:  | `:alien:`  | :alien:  | `:alien:`  |
-| :ambulance:  | `:ambulance:`  |
-| :anchor:  | `:anchor:`  |
-| :angel:  | `:angel:`  |
-| :anger:  | `:anger:`  |
+| :airplane: | `:airplane:` | :arrow_down_small: | `:arrow_down_small:` | :airplane: | `:airplane:` |
+| :alarm_clock:  | `:alarm_clock:`  | :arrow_forward:  | `:arrow_forward:`  | :alarm_clock:  | `:alarm_clock:`  |
+| :alien:  | `:alien:`  | :arrow_heading_down:  | `:arrow_heading_down:`  | :alien:  | `:alien:`  |
+| :ambulance:  | `:ambulance:`  | :ambulance:  | `:ambulance:`  | :ambulance:  | `:ambulance:`  |
+| :anchor:  | `:anchor:`  | :anchor:  | `:anchor:`  | :anchor:  | `:anchor:`  |
+| :angel:  | `:angel:`  | :angel:  | `:angel:`  | :angel:  | `:angel:`  |
+| :anger:  | `:anger:`  | :anger:  | `:anger:`  | :anger:  | `:anger:`  |
 
 
 
-arrow_down_small
-arrow_forward
-arrow_heading_down
+
+
+
 arrow_heading_up
 arrow_left
 arrow_lower_left
