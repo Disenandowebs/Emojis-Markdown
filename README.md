@@ -13,9 +13,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :a:  | `:a:`  | :aquarius:  | `:aquarius:`  | :arrow_up_small:  | `:arrow_up_small:`  |
 | :ab:  | `:ab:`  | :aries:  | `:aries:`  | :arrow_upper_left:  | `:arrow_upper_left:`  |
 | :abc:  | `:abc:`  | :arrow_backward:  | `:arrow_backward:`  | :arrow_upper_right:  | `:arrow_upper_right:`  |
-| :abcd:  | `:abcd:`  | :arrow_double_down:  | `:arrow_double_down:`  | :abcd:  | `:abcd:`  |
-| :accept:  | `:accept:`  | :arrow_double_up:  | `:arrow_double_up:`  | :accept:  | `:accept:`  |
-| :aerial_tramway:  | `:aerial_tramway:` | :arrow_down:  | `:arrow_down:` | :aerial_tramway:  | `:aerial_tramway:` |
+| :abcd:  | `:abcd:`  | :arrow_double_down:  | `:arrow_double_down:`  | :arrows_clockwise:  | `:arrows_clockwise:`  |
+| :accept:  | `:accept:`  | :arrow_double_up:  | `:arrow_double_up:`  | :arrows_counterclockwise:  | `:arrows_counterclockwise:`  |
+| :aerial_tramway:  | `:aerial_tramway:` | :arrow_down:  | `:arrow_down:` | :art:  | `:art:` |
 | :airplane: | `:airplane:` | :arrow_down_small: | `:arrow_down_small:` | :airplane: | `:airplane:` |
 | :alarm_clock:  | `:alarm_clock:`  | :arrow_forward:  | `:arrow_forward:`  | :alarm_clock:  | `:alarm_clock:`  |
 | :alien:  | `:alien:`  | :arrow_heading_down:  | `:arrow_heading_down:`  | :alien:  | `:alien:`  |
@@ -30,9 +30,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-arrows_clockwise
-arrows_counterclockwise
-art
+
+
+
 articulated_lorry
 astonished
 atm
