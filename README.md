@@ -33,8 +33,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :balloon:  | `:balloon:` | :ballot_box_with_check:  | `:ballot_box_with_check:` | :bamboo:  | `:bamboo:` |
 | :banana: | `:banana:` | :bangbang: | `:bangbang:` | :bank: | `:bank:` |
 | :bar_chart:  | `:bar_chart:`  | :barber:  | `:barber:`  | :baseball:  | `:baseball:`  |
+| :basketball:  | `:basketball:`  | :bath:  | `:bath:`  | :bathtub:  | `:bathtub:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| :abc:  | `:abc:`  | :arrow_backward:  | `:arrow_backward:`  | :arrow_upper_right:  | `:arrow_upper_right:`  |
 | :abcd:  | `:abcd:`  | :arrow_double_down:  | `:arrow_double_down:`  | :arrows_clockwise:  | `:arrows_clockwise:`  |
 | :accept:  | `:accept:`  | :arrow_double_up:  | `:arrow_double_up:`  | :arrows_counterclockwise:  | `:arrows_counterclockwise:`  |
 | :aerial_tramway:  | `:aerial_tramway:` | :arrow_down:  | `:arrow_down:` | :art:  | `:art:` |
@@ -61,9 +61,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-basketball
-bath
-bathtub
+
+
+
 battery
 bear
 beer
