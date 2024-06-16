@@ -2,7 +2,7 @@
 
 Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicaciones, que también pueden ser usados para Markdown en repositorios de Github. Están ordenados en orden alfabético y no por las categorías comunes, al menos así es más fácil para mi encontrar el emoji que me interesa encontrar. Como consejo para la búsqueda es mejor utilizar el idioma Inglés.
 
-## NÚMEROS Y LETRA A
+## NÚMEROS Y LETRA :a:
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -24,7 +24,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :angel:  | `:angel:`  | :arrow_lower_left:  | `:arrow_lower_left:`  |   |   |
 | :anger:  | `:anger:`  | :arrow_lower_right:  | `:arrow_lower_right:`  |   |   |
 
-## LETRA B
+## LETRA :b:
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
