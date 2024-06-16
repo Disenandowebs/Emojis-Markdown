@@ -29,7 +29,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :b:  | `:b:`  | :baby:  | `:baby:`  | :baby_bottle:  | `:baby_bottle:`  |
-| :baby_bottle:  | `:1baby_bottle:`  | :baby_chick:  | `:baby_chick:`  | :baby_symbol:  | `:baby_symbol:`  |
+| :baby_chick:  | `:baby_chick:`  | :baby_symbol:  | `:baby_symbol:`  | :baggage_claim:  | `:baggage_claim:`  |
 | :1234:  | `:1234:` | :ant:  | `:ant:` | :arrow_up:  | `:arrow_up:` |
 | :+1: | `:+1:` | :apple: | `:apple:` | :arrow_up_down: | `:arrow_up_down:` |
 | :a:  | `:a:`  | :aquarius:  | `:aquarius:`  | :arrow_up_small:  | `:arrow_up_small:`  |
@@ -51,7 +51,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-baggage_claim
+
 balloon
 ballot_box_with_check
 bamboo
