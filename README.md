@@ -30,8 +30,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :b:  | `:b:`  | :baby:  | `:baby:`  | :baby_bottle:  | `:baby_bottle:`  |
 | :baby_chick:  | `:baby_chick:`  | :baby_symbol:  | `:baby_symbol:`  | :baggage_claim:  | `:baggage_claim:`  |
-| :1234:  | `:1234:` | :ant:  | `:ant:` | :arrow_up:  | `:arrow_up:` |
-| :+1: | `:+1:` | :apple: | `:apple:` | :arrow_up_down: | `:arrow_up_down:` |
+| :balloon:  | `:balloon:` | :ballot_box_with_check:  | `:ballot_box_with_check:` | :bamboo:  | `:bamboo:` |
+| :banana: | `:banana:` | :bangbang: | `:bangbang:` | :bank: | `:bank:` |
 | :a:  | `:a:`  | :aquarius:  | `:aquarius:`  | :arrow_up_small:  | `:arrow_up_small:`  |
 | :ab:  | `:ab:`  | :aries:  | `:aries:`  | :arrow_upper_left:  | `:arrow_upper_left:`  |
 | :abc:  | `:abc:`  | :arrow_backward:  | `:arrow_backward:`  | :arrow_upper_right:  | `:arrow_upper_right:`  |
@@ -52,12 +52,12 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-balloon
-ballot_box_with_check
-bamboo
-banana
-bangbang
-bank
+
+
+
+
+
+
 bar_chart
 barber
 baseball
