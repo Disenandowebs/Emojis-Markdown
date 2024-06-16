@@ -28,8 +28,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| :-1:  | `:-1:`  | :angry:  | `:angry:`  | :arrow_right:  | `:arrow_right:`  |
-| :100:  | `:100:`  | :anguished:  | `:anguished:`  | :arrow_right_hook:  | `:arrow_right_hook:`  |
+| :b:  | `:b:`  | :baby:  | `:baby:`  | :baby_bottle:  | `:baby_bottle:`  |
+| :baby_bottle:  | `:1baby_bottle:`  | :baby_chick:  | `:baby_chick:`  | :baby_symbol:  | `:baby_symbol:`  |
 | :1234:  | `:1234:` | :ant:  | `:ant:` | :arrow_up:  | `:arrow_up:` |
 | :+1: | `:+1:` | :apple: | `:apple:` | :arrow_up_down: | `:arrow_up_down:` |
 | :a:  | `:a:`  | :aquarius:  | `:aquarius:`  | :arrow_up_small:  | `:arrow_up_small:`  |
@@ -46,11 +46,11 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :angel:  | `:angel:`  | :arrow_lower_left:  | `:arrow_lower_left:`  |   |   |
 | :anger:  | `:anger:`  | :arrow_lower_right:  | `:arrow_lower_right:`  |   |   |
 
-b
-baby
-baby_bottle
-baby_chick
-baby_symbol
+
+
+
+
+
 baggage_claim
 balloon
 ballot_box_with_check
