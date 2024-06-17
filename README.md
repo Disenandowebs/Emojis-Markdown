@@ -37,21 +37,17 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :battery:  | `:battery:`  | :bear:  | `:bear:`  | :beer:  | `:beer:`  |
 | :beers:  | `:beers:`  | :beetle:  | `:beetle:`  | :beginner:  | `:beginner:`  |
 | :bell:  | `:bell:`  | :bento:  | `:bento:`  | :bicyclist:  | `:bicyclist:`  |
+| :bike:  | `:bike:`  | :bikini:  | `:bikini:`  | :bird:  | `:bird:`  |
+| :birthday:  | `:birthday:`  | :black_circle:  | `:black_circle:`  | :black_joker:  | `:black_joker:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| :alien:  | `:alien:`  | :arrow_heading_down:  | `:arrow_heading_down:`  | :atm:  | `:atm:`  |
-| :ambulance:  | `:ambulance:`  | :arrow_heading_up:  | `:arrow_heading_up:`  |   |   |
-| :anchor:  | `:anchor:`  | :arrow_left:  | `:arrow_left:`  |   |   |
-| :angel:  | `:angel:`  | :arrow_lower_left:  | `:arrow_lower_left:`  |   |   |
-| :anger:  | `:anger:`  | :arrow_lower_right:  | `:arrow_lower_right:`  |   |   |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-bike
-bikini
-bird
-birthday
-black_circle
-black_joker
+
 black_nib
 black_square_button
 blossom
