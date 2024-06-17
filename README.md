@@ -41,17 +41,11 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :birthday:  | `:birthday:`  | :black_circle:  | `:black_circle:`  | :black_joker:  | `:black_joker:`  |
 | :black_nib:  | `:black_nib:`  | :black_square_button:  | `:black_square_button:`  | :blossom:  | `:blossom:`  |
 | :blowfish:  | `:blowfish:`  | :blue_book:  | `:blue_book:`  | :blue_car:  | `:blue_car:`  |
+| :blue_heart:  | `:blue_heart:`  | :blush:  | `:blush:`  | :boar:  | `:boar:`  |
+| :boat:  | `:boat:`  | :bomb:  | `:bomb:`  | :book:  | `:book:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-blue_heart
-blush
-boar
-boat
-bomb
-book
 bookmark
 bookmark_tabs
 books
