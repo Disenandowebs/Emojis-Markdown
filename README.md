@@ -34,9 +34,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :banana: | `:banana:` | :bangbang: | `:bangbang:` | :bank: | `:bank:` |
 | :bar_chart:  | `:bar_chart:`  | :barber:  | `:barber:`  | :baseball:  | `:baseball:`  |
 | :basketball:  | `:basketball:`  | :bath:  | `:bath:`  | :bathtub:  | `:bathtub:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :battery:  | `:battery:`  | :bear:  | `:bear:`  | :beer:  | `:beer:`  |
+| :beers:  | `:beers:`  | :beetle:  | `:beetle:`  | :beginner:  | `:beginner:`  |
+| :bell:  | `:bell:`  | :bento:  | `:bento:`  | :bicyclist:  | `:bicyclist:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -46,33 +46,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :angel:  | `:angel:`  | :arrow_lower_left:  | `:arrow_lower_left:`  |   |   |
 | :anger:  | `:anger:`  | :arrow_lower_right:  | `:arrow_lower_right:`  |   |   |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-battery
-bear
-beer
-beers
-beetle
-beginner
-bell
-bento
-bicyclist
 bike
 bikini
 bird
