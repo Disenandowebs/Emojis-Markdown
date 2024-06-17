@@ -39,21 +39,13 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :bell:  | `:bell:`  | :bento:  | `:bento:`  | :bicyclist:  | `:bicyclist:`  |
 | :bike:  | `:bike:`  | :bikini:  | `:bikini:`  | :bird:  | `:bird:`  |
 | :birthday:  | `:birthday:`  | :black_circle:  | `:black_circle:`  | :black_joker:  | `:black_joker:`  |
+| :black_nib:  | `:black_nib:`  | :black_square_button:  | `:black_square_button:`  | :blossom:  | `:blossom:`  |
+| :blowfish:  | `:blowfish:`  | :blue_book:  | `:blue_book:`  | :blue_car:  | `:blue_car:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-
-
-black_nib
-black_square_button
-blossom
-blowfish
-blue_book
-blue_car
 blue_heart
 blush
 boar
