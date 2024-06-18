@@ -46,20 +46,16 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :bookmark:  | `:bookmark:`  | :bookmark_tabs:  | `:bookmark_tabs:`  | :books:  | `:books:`  |
 | :boom:  | `:boom:`  | :boot:  | `:boot:`  | :bouquet:  | `:bouquet:`  |
 | :bow:  | `:bow:`  | :bowling:  | `:bowling:`  | :boy:  | `:boy:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :bride_with_veil:  | `:bride_with_veil:`  | :bridge_at_night:  | `:bridge_at_night:`  | :briefcase:  | `:briefcase:`  |
+| :broken_heart:  | `:broken_heart:`  | :bug:  | `:bug:`  | :bulb:  | `:bulb:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-bride_with_veil
-bridge_at_night
-briefcase
-broken_heart
-bug
-bulb
+
+
 bullettrain_front
 bullettrain_side
 bus
