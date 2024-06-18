@@ -48,20 +48,22 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :bow:  | `:bow:`  | :bowling:  | `:bowling:`  | :boy:  | `:boy:`  |
 | :bride_with_veil:  | `:bride_with_veil:`  | :bridge_at_night:  | `:bridge_at_night:`  | :briefcase:  | `:briefcase:`  |
 | :broken_heart:  | `:broken_heart:`  | :bug:  | `:bug:`  | :bulb:  | `:bulb:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :bullettrain_front:  | `:bullettrain_front:`  | :bullettrain_side:  | `:bullettrain_side:`  | :bus:  | `:bus:`  |
+| :busstop:  | `:busstop:`  | :bust_in_silhouette:  | `:bust_in_silhouette:`  | :busts_in_silhouette:  | `:busts_in_silhouette:`  |
+
+
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
 
-bullettrain_front
-bullettrain_side
-bus
-busstop
-bust_in_silhouette
-busts_in_silhouette
+
+
+
+
+
+
 
 
 
