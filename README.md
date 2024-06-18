@@ -44,18 +44,16 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :blue_heart:  | `:blue_heart:`  | :blush:  | `:blush:`  | :boar:  | `:boar:`  |
 | :boat:  | `:boat:`  | :bomb:  | `:bomb:`  | :book:  | `:book:`  |
 | :bookmark:  | `:bookmark:`  | :bookmark_tabs:  | `:bookmark_tabs:`  | :books:  | `:books:`  |
+| :boom:  | `:boom:`  | :boot:  | `:boot:`  | :bouquet:  | `:bouquet:`  |
+| :bow:  | `:bow:`  | :bowling:  | `:bowling:`  | :boy:  | `:boy:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-
-
-boom
-boot
-bouquet
-bow
-bowling
-boy
-bread
 bride_with_veil
 bridge_at_night
 briefcase
