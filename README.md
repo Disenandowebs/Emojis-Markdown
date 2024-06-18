@@ -51,7 +51,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :bullettrain_front:  | `:bullettrain_front:`  | :bullettrain_side:  | `:bullettrain_side:`  | :bus:  | `:bus:`  |
 | :busstop:  | `:busstop:`  | :bust_in_silhouette:  | `:bust_in_silhouette:`  | :busts_in_silhouette:  | `:busts_in_silhouette:`  |
 
-## LETRA :cactus:
+## LETRA C :cactus:
 
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
