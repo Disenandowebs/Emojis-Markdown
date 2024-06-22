@@ -59,7 +59,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :calling:  | `:calling:`  | :camel:  | `:camel:`  | :camera:  | `:camera:`  |
 | :cancer:  | `:cancer:`  | :candy:  | `:candy:`  | :capital_abcd:  | `:capital_abcd:`  |
 | :capricorn:  | `:capricorn:`  | :car:  | `:car:`  | :card_index:  | `:card_index:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :carousel_horse:  | `:carousel_horse:`  | :cat:  | `:cat:`  | :cat2:  | `:cat2:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -74,9 +74,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-carousel_horse
-cat
-cat2
+
+
+
 cd
 chart
 chart_with_downwards_trend
