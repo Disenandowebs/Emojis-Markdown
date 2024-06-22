@@ -57,10 +57,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :cactus:  | `:cactus:`  | :cake:  | `:cake:`  | :calendar:  | `:calendar:`  |
 | :calling:  | `:calling:`  | :camel:  | `:camel:`  | :camera:  | `:camera:`  |
-
-
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :cancer:  | `:cancer:`  | :candy:  | `:candy:`  | :capital_abcd:  | `:capital_abcd:`  |
+| :capricorn:  | `:capricorn:`  | :car:  | `:car:`  | :card_index:  | `:card_index:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -76,12 +74,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-cancer
-candy
-capital_abcd
-capricorn
-car
-card_index
 carousel_horse
 cat
 cat2
