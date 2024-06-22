@@ -53,8 +53,12 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 ## LETRA C :cactus:
 
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :cactus:  | `:cactus:`  | :cake:  | `:cake:`  | :calendar:  | `:calendar:`  |
 | :calling:  | `:calling:`  | :camel:  | `:camel:`  | :camera:  | `:camera:`  |
+
+
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
