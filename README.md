@@ -53,11 +53,120 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 ## LETRA C :cactus:
 
+| :cactus:  | `:cactus:`  | :cake:  | `:cake:`  | :calendar:  | `:calendar:`  |
+| :calling:  | `:calling:`  | :camel:  | `:camel:`  | :camera:  | `:camera:`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-
+cancer
+candy
+capital_abcd
+capricorn
+car
+card_index
+carousel_horse
+cat
+cat2
+cd
+chart
+chart_with_downwards_trend
+chart_with_upwards_trend
+checkered_flag
+cherries
+cherry_blossom
+chestnut
+chicken
+children_crossing
+chocolate_bar
+christmas_tree
+church
+cinema
+circus_tent
+city_sunrise
+city_sunset
+cl
+clap
+clapper
+clipboard
+clock1
+clock10
+clock1030
+clock11
+clock1130
+clock12
+clock1230
+clock130
+clock2
+clock230
+clock3
+clock330
+clock4
+clock430
+clock5
+clock530
+clock6
+clock630
+clock7
+clock730
+clock8
+clock830
+clock9
+clock930
+closed_book
+closed_lock_with_key
+closed_umbrella
+cloud
+clubs
+cn
+cocktail
+coffee
+cold_sweat
+collision
+computer
+confetti_ball
+confounded
+confused
+congratulations
+construction
+construction_worker
+convenience_store
+cookie
+cool
+cop
+copyright
+corn
+couple
+couple_with_heart
+cow
+cow2
+credit_card
+crocodile
+crossed_flags
+crown
+cry
+crying_cat_face
+crystal_ball
+cupid
+curly_loop
+currency_exchange
+curry
+custard
+customs
+cyclone
 
 
 
