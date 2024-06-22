@@ -61,8 +61,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :capricorn:  | `:capricorn:`  | :car:  | `:car:`  | :card_index:  | `:card_index:`  |
 | :carousel_horse:  | `:carousel_horse:`  | :cat:  | `:cat:`  | :cat2:  | `:cat2:`  |
 | :cd:  | `:cd:`  | :chart:  | `:chart:`  | :chart_with_downwards_trend:  | `:chart_with_downwards_trend:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :chart_with_upwards_trend:  | `:chart_with_upwards_trend:`  | :checkered_flag:  | `:checkered_flag:`  | :cherries:  | `:cherries:`  |
+| :cherry_blossom:  | `:cherry_blossom:`  | :chestnut:  | `:chestnut:`  | :chicken:  | `:chicken:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -76,13 +76,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-
-chart_with_upwards_trend
-checkered_flag
-cherries
-cherry_blossom
-chestnut
-chicken
 children_crossing
 chocolate_bar
 christmas_tree
