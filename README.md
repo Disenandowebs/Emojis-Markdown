@@ -73,12 +73,12 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :clock230:  | `:clock230:`  | :clock3:  | `:clock3:`  | :clock330:  | `:clock330:`  |
 | :clock4:  | `:clock4:`  | :clock430:  | `:clock430:`  | :clock5:  | `:clock5:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
-
-
-
-
-
-
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 clock530
 clock6
