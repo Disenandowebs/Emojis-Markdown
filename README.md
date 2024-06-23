@@ -68,11 +68,11 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :circus_tent:  | `:circus_tent:`  | :city_sunrise:  | `:city_sunrise:`  | :city_sunset:  | `:city_sunset:`  |
 | :cl:  | `:cl:`  | :clap:  | `:clap:`  | :clapper:  | `:clapper:`  |
 | :clipboard:  | `:clipboard:`  | :clock1:  | `:clock1:`  | :clock10:  | `:clock10:`  |
+| :clock11:  | `:clock11:`  | :clock1130:  | `:clock1130:`  | :clock12:  | `:clock12:`  |
+| :clock1230:  | `:clock1230:`  | :clock130:  | `:clock130:`  | :clock2:  | `:clock2:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
 
@@ -81,17 +81,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-
-
-
-
-clock1030
-clock11
-clock1130
-clock12
-clock1230
-clock130
-clock2
 clock230
 clock3
 clock330
