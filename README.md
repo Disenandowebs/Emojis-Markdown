@@ -66,8 +66,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :children_crossing:  | `:children_crossing:`  | :chocolate_bar:  | `:chocolate_bar:`  | :christmas_tree:  | `:christmas_tree:`  |
 | :church:  | `:church:`  | :cinema:  | `:cinema:`  | :cinema:  | `:cinema:`  |
 | :circus_tent:  | `:circus_tent:`  | :city_sunrise:  | `:city_sunrise:`  | :city_sunset:  | `:city_sunset:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :cl:  | `:cl:`  | :clap:  | `:clap:`  | :clapper:  | `:clapper:`  |
+| :clipboard:  | `:clipboard:`  | :clock1:  | `:clock1:`  | :clock10:  | `:clock10:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -79,12 +79,12 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-cl
-clap
-clapper
-clipboard
-clock1
-clock10
+
+
+
+
+
+
 clock1030
 clock11
 clock1130
