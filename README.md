@@ -64,8 +64,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :chart_with_upwards_trend:  | `:chart_with_upwards_trend:`  | :checkered_flag:  | `:checkered_flag:`  | :cherries:  | `:cherries:`  |
 | :cherry_blossom:  | `:cherry_blossom:`  | :chestnut:  | `:chestnut:`  | :chicken:  | `:chicken:`  |
 | :children_crossing:  | `:children_crossing:`  | :chocolate_bar:  | `:chocolate_bar:`  | :christmas_tree:  | `:christmas_tree:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :church:  | `:church:`  | :cinema:  | `:cinema:`  | :cinema:  | `:cinema:`  |
+| :circus_tent:  | `:circus_tent:`  | :city_sunrise:  | `:city_sunrise:`  | :city_sunset:  | `:city_sunset:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -74,11 +74,11 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-church
-cinema
-circus_tent
-city_sunrise
-city_sunset
+
+
+
+
+
 cl
 clap
 clapper
