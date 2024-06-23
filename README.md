@@ -72,20 +72,20 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :clock1230:  | `:clock1230:`  | :clock130:  | `:clock130:`  | :clock2:  | `:clock2:`  |
 | :clock230:  | `:clock230:`  | :clock3:  | `:clock3:`  | :clock330:  | `:clock330:`  |
 | :clock4:  | `:clock4:`  | :clock430:  | `:clock430:`  | :clock5:  | `:clock5:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :clock530:  | `:clock530:`  | :clock6:  | `:clock6:`  | :clock630:  | `:clock630:`  |
+| :clock7:  | `:clock7:`  | :clock730:  | `:clock730:`  | :clock8:  | `:clock8:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-clock530
-clock6
-clock630
-clock7
-clock730
-clock8
+
+
+
+
+
+
 clock830
 clock9
 clock930
