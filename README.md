@@ -74,11 +74,11 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :clock4:  | `:clock4:`  | :clock430:  | `:clock430:`  | :clock5:  | `:clock5:`  |
 | :clock530:  | `:clock530:`  | :clock6:  | `:clock6:`  | :clock630:  | `:clock630:`  |
 | :clock7:  | `:clock7:`  | :clock730:  | `:clock730:`  | :clock8:  | `:clock8:`  |
+| :clock830:  | `:clock830:`  | :clock9:  | `:clock9:`  | :clock930:  | `:clock930:`  |
+| :closed_book:  | `:closed_book:`  | :closed_lock_with_key:  | `:closed_lock_with_key:`  | :closed_umbrella:  | `:closed_umbrella:`  |
+| :cloud:  | `:cloud:`  | :clubs:  | `:clubs:`  | :cn:  | `:cn:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
 
@@ -86,15 +86,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-clock830
-clock9
-clock930
-closed_book
-closed_lock_with_key
-closed_umbrella
-cloud
-clubs
-cn
+
+
+
 cocktail
 coffee
 cold_sweat
