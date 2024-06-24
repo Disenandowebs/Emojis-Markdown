@@ -77,21 +77,22 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :clock830:  | `:clock830:`  | :clock9:  | `:clock9:`  | :clock930:  | `:clock930:`  |
 | :closed_book:  | `:closed_book:`  | :closed_lock_with_key:  | `:closed_lock_with_key:`  | :closed_umbrella:  | `:closed_umbrella:`  |
 | :cloud:  | `:cloud:`  | :clubs:  | `:clubs:`  | :cn:  | `:cn:`  |
+| :cocktail:  | `:cocktail:`  | :coffee:  | `:coffee:`  | :cold_sweat:  | `:cold_sweat:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
 
 
-
-
-
-
-
-
-cocktail
-coffee
-cold_sweat
 collision
 computer
 confetti_ball
