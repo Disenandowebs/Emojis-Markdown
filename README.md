@@ -78,7 +78,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :closed_book:  | `:closed_book:`  | :closed_lock_with_key:  | `:closed_lock_with_key:`  | :closed_umbrella:  | `:closed_umbrella:`  |
 | :cloud:  | `:cloud:`  | :clubs:  | `:clubs:`  | :cn:  | `:cn:`  |
 | :cocktail:  | `:cocktail:`  | :coffee:  | `:coffee:`  | :cold_sweat:  | `:cold_sweat:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :collision:  | `:collision:`  | :computer:  | `:computer:`  | :confetti_ball:  | `:confetti_ball:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -93,9 +93,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-collision
-computer
-confetti_ball
+
+
+
 confounded
 confused
 congratulations
