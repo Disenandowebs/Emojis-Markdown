@@ -81,7 +81,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :collision:  | `:collision:`  | :computer:  | `:computer:`  | :confetti_ball:  | `:confetti_ball:`  |
 | :confounded:  | `:confounded:`  | :confused:  | `:confused:`  | :congratulations:  | `:congratulations:`  |
 | :construction:  | `:construction:`  | :construction_worker:  | `:construction_worker:`  | :convenience_store:  | `:convenience_store:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :cookie:  | `:cookie:`  | :cool:  | `:cool:`  | :cop:  | `:cop:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -91,12 +91,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
-
-
-
-cool
-cop
-copyright
 corn
 couple
 couple_with_heart
