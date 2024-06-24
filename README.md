@@ -80,7 +80,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :cocktail:  | `:cocktail:`  | :coffee:  | `:coffee:`  | :cold_sweat:  | `:cold_sweat:`  |
 | :collision:  | `:collision:`  | :computer:  | `:computer:`  | :confetti_ball:  | `:confetti_ball:`  |
 | :confounded:  | `:confounded:`  | :confused:  | `:confused:`  | :congratulations:  | `:congratulations:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :construction:  | `:construction:`  | :construction_worker:  | `:construction_worker:`  | :convenience_store:  | `:convenience_store:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -90,10 +90,10 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-construction
-construction_worker
-convenience_store
-cookie
+
+
+
+
 cool
 cop
 copyright
