@@ -79,7 +79,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :cloud:  | `:cloud:`  | :clubs:  | `:clubs:`  | :cn:  | `:cn:`  |
 | :cocktail:  | `:cocktail:`  | :coffee:  | `:coffee:`  | :cold_sweat:  | `:cold_sweat:`  |
 | :collision:  | `:collision:`  | :computer:  | `:computer:`  | :confetti_ball:  | `:confetti_ball:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :confounded:  | `:confounded:`  | :confused:  | `:confused:`  | :congratulations:  | `:congratulations:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -90,15 +90,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-
-
-
-
-
-
-confounded
-confused
-congratulations
 construction
 construction_worker
 convenience_store
