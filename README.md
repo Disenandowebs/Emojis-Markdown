@@ -83,6 +83,12 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :construction:  | `:construction:`  | :construction_worker:  | `:construction_worker:`  | :convenience_store:  | `:convenience_store:`  |
 | :cookie:  | `:cookie:`  | :cool:  | `:cool:`  | :cop:  | `:cop:`  |
 | :copyright:  | `:copyright:`  | :corn:  | `:corn:`  | :couple:  | `:couple:`  |
+| :couple_with_heart:  | `:couple_with_heart:`  | :cow:  | `:cow:`  | :cow2:  | `:cow2:`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -90,12 +96,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-
-
-
-couple_with_heart
-cow
-cow2
 credit_card
 crocodile
 crossed_flags
