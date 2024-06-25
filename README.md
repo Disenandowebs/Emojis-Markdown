@@ -87,7 +87,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :credit_card:  | `:credit_card:`  | :crocodile:  | `:crocodile:`  | :crossed_flags:  | `:crossed_flags:`  |
 | :crown:  | `:crown:`  | :cry:  | `:cry:`  | :crying_cat_face:  | `:crying_cat_face:`  |
 | :crystal_ball:  | `:crystal_ball:`  | :cupid:  | `:cupid:`  | :curly_loop:  | `:curly_loop:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :currency_exchange:  | `:currency_exchange:`  | :curry:  | `:curry:`  | :custard:  | `:custard:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -99,9 +99,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-currency_exchange
-curry
-custard
 customs
 cyclone
 
