@@ -84,7 +84,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :cookie:  | `:cookie:`  | :cool:  | `:cool:`  | :cop:  | `:cop:`  |
 | :copyright:  | `:copyright:`  | :corn:  | `:corn:`  | :couple:  | `:couple:`  |
 | :couple_with_heart:  | `:couple_with_heart:`  | :cow:  | `:cow:`  | :cow2:  | `:cow2:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :credit_card:  | `:credit_card:`  | :crocodile:  | `:crocodile:`  | :crossed_flags:  | `:crossed_flags:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -96,9 +96,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-credit_card
-crocodile
-crossed_flags
+
+
+
 crown
 cry
 crying_cat_face
