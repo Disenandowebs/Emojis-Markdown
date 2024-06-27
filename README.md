@@ -94,19 +94,19 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :dancer:  | `:dancer:`  | :dancers:  | `:dancers:`  | :dango:  | `:dango:`  |
+| :dart:  | `:dart:`  | :dash:  | `:dash:`  | :date:  | `:date:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-dancer
-dancers
-dango
-dart
-dash
-date
+
+
+
+
+
+
 de
 deciduous_tree
 department_store
