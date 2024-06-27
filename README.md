@@ -99,8 +99,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :de:  | `:de:`  | :deciduous_tree:  | `:deciduous_tree:`  | :department_store:  | `:department_store:`  |
 | :diamond_shape_with_a_dot_inside:  | `:diamond_shape_with_a_dot_inside:`  | :diamonds:  | `:diamonds:`  | :disappointed:  | `:disappointed:`  |
 | :disappointed_relieved:  | `:disappointed_relieved:`  | :dizzy:  | `:dizzy:`  | :dizzy_face:  | `:dizzy_face:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :do_not_litter:  | `:do_not_litter:`  | :dog:  | `:dog:`  | :dog2:  | `:dog2:`  |
+| :dollar:  | `:dollar:`  | :dolls:  | `:dolls:`  | :dolphin:  | `:dolphin:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -109,12 +109,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-do_not_litter
-dog
-dog2
-dollar
-dolls
-dolphin
+
+
+
 door
 doughnut
 dragon
