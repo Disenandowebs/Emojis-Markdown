@@ -90,8 +90,10 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :currency_exchange:  | `:currency_exchange:`  | :curry:  | `:curry:`  | :custard:  | `:custard:`  |
 | :customs:  | `:customs:`  | :cyclone:  | `:cyclone:`  | ::  | `::`  |
 
+## LETRA D :dancer:
 
-
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -99,7 +101,35 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-
+dancer
+dancers
+dango
+dart
+dash
+date
+de
+deciduous_tree
+department_store
+diamond_shape_with_a_dot_inside
+diamonds
+disappointed
+disappointed_relieved
+dizzy
+dizzy_face
+do_not_litter
+dog
+dog2
+dollar
+dolls
+dolphin
+door
+doughnut
+dragon
+dragon_face
+dress
+dromedary_camel
+droplet
+dvd
 
 
 
