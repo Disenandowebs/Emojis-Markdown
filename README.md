@@ -101,23 +101,14 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :disappointed_relieved:  | `:disappointed_relieved:`  | :dizzy:  | `:dizzy:`  | :dizzy_face:  | `:dizzy_face:`  |
 | :do_not_litter:  | `:do_not_litter:`  | :dog:  | `:dog:`  | :dog2:  | `:dog2:`  |
 | :dollar:  | `:dollar:`  | :dolls:  | `:dolls:`  | :dolphin:  | `:dolphin:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :door:  | `:door:`  | :doughnut:  | `:doughnut:`  | :dragon:  | `:dragon:`  |
+| :dragon_face:  | `:dragon_face:`  | :dress:  | `:dress:`  | :dromedary_camel:  | `:dromedary_camel:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-
-
-
-door
-doughnut
-dragon
-dragon_face
-dress
-dromedary_camel
 droplet
 dvd
 
