@@ -98,15 +98,17 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :dart:  | `:dart:`  | :dash:  | `:dash:`  | :date:  | `:date:`  |
 | :de:  | `:de:`  | :deciduous_tree:  | `:deciduous_tree:`  | :department_store:  | `:department_store:`  |
 | :diamond_shape_with_a_dot_inside:  | `:diamond_shape_with_a_dot_inside:`  | :diamonds:  | `:diamonds:`  | :disappointed:  | `:disappointed:`  |
+| :disappointed_relieved:  | `:disappointed_relieved:`  | :dizzy:  | `:dizzy:`  | :dizzy_face:  | `:dizzy_face:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-
-
-
-disappointed_relieved
-dizzy
-dizzy_face
 do_not_litter
 dog
 dog2
