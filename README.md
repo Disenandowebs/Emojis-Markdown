@@ -103,14 +103,17 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :dollar:  | `:dollar:`  | :dolls:  | `:dolls:`  | :dolphin:  | `:dolphin:`  |
 | :door:  | `:door:`  | :doughnut:  | `:doughnut:`  | :dragon:  | `:dragon:`  |
 | :dragon_face:  | `:dragon_face:`  | :dress:  | `:dress:`  | :dromedary_camel:  | `:dromedary_camel:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :droplet:  | `:droplet:`  | :dvd:  | `:dvd:`  | ::  | `::`  |
+
+
+
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-droplet
-dvd
+
+
 
 
 
