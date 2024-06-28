@@ -114,23 +114,17 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :egg:  | `:egg:`  | :eggplant:  | `:eggplant:`  | :eight:  | `:eight:`  |
 | :eight_pointed_black_star:  | `:eight_pointed_black_star:`  | :eight_spoked_asterisk:  | `:eight_spoked_asterisk:`  | :electric_plug:  | `:electric_plug:`  |
 | :elephant:  | `:elephant:`  | :email:  | `:email:`  | :end:  | `:end:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :envelope:  | `:envelope:`  | :es:  | `:es:`  | :euro:  | `:euro:`  |
+| :european_castle:  | `:european_castle:`  | :european_post_office:  | `:european_post_office:`  | :evergreen_tree:  | `:evergreen_tree:`  |
+| :exclamation:  | `:exclamation:`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-envelope
-es
-euro
-european_castle
-european_post_office
-evergreen_tree
-exclamation
-expressionless
+
+
 eyeglasses
 eyes
 
