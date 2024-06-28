@@ -116,17 +116,62 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :elephant:  | `:elephant:`  | :email:  | `:email:`  | :end:  | `:end:`  |
 | :envelope:  | `:envelope:`  | :es:  | `:es:`  | :euro:  | `:euro:`  |
 | :european_castle:  | `:european_castle:`  | :european_post_office:  | `:european_post_office:`  | :evergreen_tree:  | `:evergreen_tree:`  |
-| :exclamation:  | `:exclamation:`  | ::  | `::`  | ::  | `::`  |
+| :exclamation:  | `:exclamation:`  | :eyeglasses:  | `:eyeglasses:`  | :eyes:  | `:eyes:`  |
+
+## LETRA F :feet:
+
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
+facepunch
+factory
+fallen_leaf
+family
+fast_forward
+fax
+fearful
+feet
+ferris_wheel
+file_folder
+fire
+fire_engine
+fireworks
+first_quarter_moon
+first_quarter_moon_with_face
+fish
+fish_cake
+fishing_pole_and_fish
+fist
+five
+flags
+flashlight
+floppy_disk
+flower_playing_cards
+flushed
+foggy
+football
+fork_and_knife
+fountain
+four
+four_leaf_clover
+fr
+free
+fried_shrimp
+fries
+frog
+frowning
+fu
+fuelpump
+full_moon
+full_moon_with_face
 
 
-eyeglasses
-eyes
+
 
 
 
