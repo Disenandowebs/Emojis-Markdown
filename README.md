@@ -112,8 +112,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :e-mail:  | `:e-mail:`  | :ear:  | `:ear:`  | :ear_of_rice:  | `:ear_of_rice:`  |
 | :earth_africa:  | `:earth_africa:`  | :earth_americas:  | `:earth_americas:`  | :earth_asia:  | `:earth_asia:`  |
 | :egg:  | `:egg:`  | :eggplant:  | `:eggplant:`  | :eight:  | `:eight:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :eight_pointed_black_star:  | `:eight_pointed_black_star:`  | :eight_spoked_asterisk:  | `:eight_spoked_asterisk:`  | :electric_plug:  | `:electric_plug:`  |
+| :elephant:  | `:elephant:`  | :email:  | `:email:`  | :end:  | `:end:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -123,12 +123,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-eight_pointed_black_star
-eight_spoked_asterisk
-electric_plug
-elephant
-email
-end
 envelope
 es
 euro
