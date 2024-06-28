@@ -105,14 +105,41 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :dragon_face:  | `:dragon_face:`  | :dress:  | `:dress:`  | :dromedary_camel:  | `:dromedary_camel:`  |
 | :droplet:  | `:droplet:`  | :dvd:  | `:dvd:`  | ::  | `::`  |
 
+## LETRA E :e-mail:
 
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-
+e-mail
+ear
+ear_of_rice
+earth_africa
+earth_americas
+earth_asia
+egg
+eggplant
+eight
+eight_pointed_black_star
+eight_spoked_asterisk
+electric_plug
+elephant
+email
+end
+envelope
+es
+euro
+european_castle
+european_post_office
+evergreen_tree
+exclamation
+expressionless
+eyeglasses
+eyes
 
 
 
