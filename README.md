@@ -126,8 +126,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :family:  | `:family:`  | :fast_forward:  | `:fast_forward:`  | :fax:  | `:fax:`  |
 | :fearful:  | `:fearful:`  | :feet:  | `:feet:`  | :ferris_wheel:  | `:ferris_wheel:`  |
 | :file_folder:  | `:file_folder:`  | :fire:  | `:fire:`  | :fire_engine:  | `:fire_engine:`  |
-| :fireworks:  | `:fireworks:`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :fireworks:  | `:fireworks:`  | :first_quarter_moon:  | `:first_quarter_moon:`  | :first_quarter_moon_with_face:  | `:first_quarter_moon_with_face:`  |
+| :fish:  | `:fish:`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -135,12 +135,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
-
-
-
-first_quarter_moon
-first_quarter_moon_with_face
-fish
 fish_cake
 fishing_pole_and_fish
 fist
