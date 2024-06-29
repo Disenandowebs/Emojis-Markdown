@@ -127,16 +127,13 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :fearful:  | `:fearful:`  | :feet:  | `:feet:`  | :ferris_wheel:  | `:ferris_wheel:`  |
 | :file_folder:  | `:file_folder:`  | :fire:  | `:fire:`  | :fire_engine:  | `:fire_engine:`  |
 | :fireworks:  | `:fireworks:`  | :first_quarter_moon:  | `:first_quarter_moon:`  | :first_quarter_moon_with_face:  | `:first_quarter_moon_with_face:`  |
-| :fish:  | `:fish:`  | ::  | `::`  | ::  | `::`  |
+| :fish:  | `:fish:`  | :fish_cake:  | `:fish_cake:`  | :fishing_pole_and_fish:  | `:fishing_pole_and_fish:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-
-fish_cake
-fishing_pole_and_fish
 fist
 five
 flags
