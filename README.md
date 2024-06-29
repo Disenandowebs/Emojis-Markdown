@@ -122,21 +122,15 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :facepunch:  | `:facepunch:`  | :factory:  | `:factory:`  | :fallen_leaf:  | `:fallen_leaf:`  |
+| :family:  | `:family:`  | :fast_forward:  | `:fast_forward:`  | :fax:  | `:fax:`  |
+| :fearful:  | `:fearful:`  | :feet:  | `:feet:`  | :ferris_wheel:  | `:ferris_wheel:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-facepunch
-factory
-fallen_leaf
-family
-fast_forward
-fax
-fearful
-feet
-ferris_wheel
+
+
+
 file_folder
 fire
 fire_engine
