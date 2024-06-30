@@ -134,16 +134,16 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :fork_and_knife:  | `:fork_and_knife:`  | :fountain:  | `:fountain:`  | :four:  | `:four:`  |
 | :four_leaf_clover:  | `:four_leaf_clover:`  | :fr:  | `:fr:`  | :free:  | `:free:`  |
 | :fried_shrimp:  | `:fried_shrimp:`  | :fries:  | `:fries:`  | :frog:  | `:frog:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :frowning:  | `:frowning:`  | :fu:  | `:fu:`  | :fuelpump:  | `:fuelpump:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
-frowning
-fu
-fuelpump
+
+
+
 full_moon
 full_moon_with_face
 
