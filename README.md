@@ -133,7 +133,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :flushed:  | `:flushed:`  | :foggy:  | `:foggy:`  | :football:  | `:football:`  |
 | :fork_and_knife:  | `:fork_and_knife:`  | :fountain:  | `:fountain:`  | :four:  | `:four:`  |
 | :four_leaf_clover:  | `:four_leaf_clover:`  | :fr:  | `:fr:`  | :free:  | `:free:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :fried_shrimp:  | `:fried_shrimp:`  | :fries:  | `:fries:`  | :frog:  | `:frog:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -141,12 +141,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
-
-
-
-fried_shrimp
-fries
-frog
 frowning
 fu
 fuelpump
