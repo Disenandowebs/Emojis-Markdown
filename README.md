@@ -130,7 +130,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :fish:  | `:fish:`  | :fish_cake:  | `:fish_cake:`  | :fishing_pole_and_fish:  | `:fishing_pole_and_fish:`  |
 | :fist:  | `:fist:`  | :five:  | `:five:`  | :flags:  | `:flags:`  |
 | :flashlight:  | `:flashlight:`  | :floppy_disk:  | `:floppy_disk:`  | :flower_playing_cards:  | `:flower_playing_cards:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :flushed:  | `:flushed:`  | :foggy:  | `:foggy:`  | :football:  | `:football:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -140,9 +140,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-flushed
-foggy
-football
+
+
+
 fork_and_knife
 fountain
 four
