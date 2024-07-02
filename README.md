@@ -150,11 +150,11 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :grin:  | `:grin:`  | :grinning:  | `:grinning:`  | :guardsman:  | `:guardsman:`  |
 | :guitar:  | `:guitar:`  | :gun:  | `:gun:`  | ::  | `::`  |
 
-## LETRA H :game_die:
+## LETRA H :horse:
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :haircut:  | `:haircut:`  | :hamburger:  | `:hamburger:`  | :hammer:  | `:hammer:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -164,9 +164,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-haircut
-hamburger
-hammer
+
+
+
 hamster
 hand
 handbag
