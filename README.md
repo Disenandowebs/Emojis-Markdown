@@ -149,11 +149,65 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :grey_exclamation:  | `:grey_exclamation:`  | :grey_question:  | `:grey_question:`  | :grimacing:  | `:grimacing:`  |
 | :grin:  | `:grin:`  | :grinning:  | `:grinning:`  | :guardsman:  | `:guardsman:`  |
 | :guitar:  | `:guitar:`  | :gun:  | `:gun:`  | ::  | `::`  |
+
+## LETRA H :game_die:
+
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-
+haircut
+hamburger
+hammer
+hamster
+hand
+handbag
+hankey
+hash
+hatched_chick
+hatching_chick
+headphones
+hear_no_evil
+heart
+heart_decoration
+heart_eyes
+heart_eyes_cat
+heartbeat
+heartpulse
+hearts
+heavy_check_mark
+heavy_division_sign
+heavy_dollar_sign
+heavy_exclamation_mark
+heavy_minus_sign
+heavy_multiplication_x
+heavy_plus_sign
+helicopter
+herb
+hibiscus
+high_brightness
+high_heel
+hocho
+honey_pot
+honeybee
+horse
+horse_racing
+hospital
+hotel
+hotsprings
+hourglass
+hourglass_flowing_sand
+house
+house_with_garden
+hushed
 
 
 
