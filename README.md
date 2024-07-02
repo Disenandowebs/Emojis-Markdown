@@ -148,10 +148,10 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :green_apple:  | `:green_apple:`  | :green_book:  | `:green_book:`  | :green_heart:  | `:green_heart:`  |
 | :grey_exclamation:  | `:grey_exclamation:`  | :grey_question:  | `:grey_question:`  | :grimacing:  | `:grimacing:`  |
 | :grin:  | `:grin:`  | :grinning:  | `:grinning:`  | :guardsman:  | `:guardsman:`  |
+| :guitar:  | `:guitar:`  | :gun:  | `:gun:`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
 
@@ -160,8 +160,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-guitar
-gun
+
+
 
 
 
