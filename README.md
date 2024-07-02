@@ -155,7 +155,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :haircut:  | `:haircut:`  | :hamburger:  | `:hamburger:`  | :hammer:  | `:hammer:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :hamster:  | `:hamster:`  | :hand:  | `:hand:`  | :handbag:  | `:handbag:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -164,12 +164,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-
-
-
-hamster
-hand
-handbag
 hankey
 hash
 hatched_chick
