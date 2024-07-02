@@ -142,7 +142,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :game_die:  | `:game_die:`  | :gb:  | `:gb:`  | :gem:  | `:gem:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :gemini:  | `:gemini:`  | :ghost:  | `:ghost:`  | :gift:  | `:gift:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -155,10 +155,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-
-gemini
-ghost
-gift
 gift_heart
 girl
 globe_with_meridians
