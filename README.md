@@ -135,7 +135,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :four_leaf_clover:  | `:four_leaf_clover:`  | :fr:  | `:fr:`  | :free:  | `:free:`  |
 | :fried_shrimp:  | `:fried_shrimp:`  | :fries:  | `:fries:`  | :frog:  | `:frog:`  |
 | :frowning:  | `:frowning:`  | :fu:  | `:fu:`  | :fuelpump:  | `:fuelpump:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :full_moon:  | `:full_moon:`  | :full_moon_with_face:  | `:full_moon_with_face:`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -152,8 +152,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-full_moon
-full_moon_with_face
+
+
 
 
 
