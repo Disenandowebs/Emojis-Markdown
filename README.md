@@ -145,7 +145,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :gemini:  | `:gemini:`  | :ghost:  | `:ghost:`  | :gift:  | `:gift:`  |
 | :gift_heart:  | `:gift_heart:`  | :girl:  | `:girl:`  | :globe_with_meridians:  | `:globe_with_meridians:`  |
 | :goat:  | `:goat:`  | :golf:  | `:golf:`  | :grapes:  | `:grapes:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :green_apple:  | `:green_apple:`  | :green_book:  | `:green_book:`  | :green_heart:  | `:green_heart:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -154,12 +154,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
-
-
-
-green_apple
-green_book
-green_heart
 grey_exclamation
 grey_question
 grimacing
