@@ -146,7 +146,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :gift_heart:  | `:gift_heart:`  | :girl:  | `:girl:`  | :globe_with_meridians:  | `:globe_with_meridians:`  |
 | :goat:  | `:goat:`  | :golf:  | `:golf:`  | :grapes:  | `:grapes:`  |
 | :green_apple:  | `:green_apple:`  | :green_book:  | `:green_book:`  | :green_heart:  | `:green_heart:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :grey_exclamation:  | `:grey_exclamation:`  | :grey_question:  | `:grey_question:`  | :grimacing:  | `:grimacing:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -154,9 +154,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
-grey_exclamation
-grey_question
-grimacing
+
+
+
 grin
 grinning
 guardsman
