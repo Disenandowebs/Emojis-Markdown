@@ -136,7 +136,12 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :fried_shrimp:  | `:fried_shrimp:`  | :fries:  | `:fries:`  | :frog:  | `:frog:`  |
 | :frowning:  | `:frowning:`  | :fu:  | `:fu:`  | :fuelpump:  | `:fuelpump:`  |
 | :full_moon:  | `:full_moon:`  | :full_moon_with_face:  | `:full_moon_with_face:`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+
+## LETRA G :game_die:
+
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| :game_die:  | `:game_die:`  | :gb:  | `:gb:`  | :gem:  | `:gem:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -149,6 +154,28 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
+
+
+gemini
+ghost
+gift
+gift_heart
+girl
+globe_with_meridians
+goat
+golf
+grapes
+green_apple
+green_book
+green_heart
+grey_exclamation
+grey_question
+grimacing
+grin
+grinning
+guardsman
+guitar
+gun
 
 
 
