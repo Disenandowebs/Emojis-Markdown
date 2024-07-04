@@ -159,23 +159,14 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :hankey:  | `:hankey:`  | :hash:  | `:hash:`  | :hatched_chick:  | `:hatched_chick:`  |
 | :hatching_chick:  | `:hatching_chick:`  | :headphones:  | `:headphones:`  | :hear_no_evil:  | `:hear_no_evil:`  |
 | :heart:  | `:heart:`  | :heart_decoration:  | `:heart_decoration:`  | :heart_eyes:  | `:heart_eyes:`  |
+| :heart_eyes_cat:  | `:heart_eyes_cat:`  | :heartbeat:  | `:heartbeat:`  | :heartpulse:  | `:heartpulse:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
 
 
-
-
-
-
-
-
-heart_eyes_cat
-heartbeat
-heartpulse
 hearts
 heavy_check_mark
 heavy_division_sign
