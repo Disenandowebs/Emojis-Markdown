@@ -157,7 +157,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :haircut:  | `:haircut:`  | :hamburger:  | `:hamburger:`  | :hammer:  | `:hammer:`  |
 | :hamster:  | `:hamster:`  | :hand:  | `:hand:`  | :handbag:  | `:handbag:`  |
 | :hankey:  | `:hankey:`  | :hash:  | `:hash:`  | :hatched_chick:  | `:hatched_chick:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :hatching_chick:  | `:hatching_chick:`  | :headphones:  | `:headphones:`  | :hear_no_evil:  | `:hear_no_evil:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -167,9 +167,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-hatching_chick
-headphones
-hear_no_evil
+
+
+
 heart
 heart_decoration
 heart_eyes
