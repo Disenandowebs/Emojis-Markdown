@@ -160,16 +160,16 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :hatching_chick:  | `:hatching_chick:`  | :headphones:  | `:headphones:`  | :hear_no_evil:  | `:hear_no_evil:`  |
 | :heart:  | `:heart:`  | :heart_decoration:  | `:heart_decoration:`  | :heart_eyes:  | `:heart_eyes:`  |
 | :heart_eyes_cat:  | `:heart_eyes_cat:`  | :heartbeat:  | `:heartbeat:`  | :heartpulse:  | `:heartpulse:`  |
+| :hearts:  | `:hearts:`  | :heavy_check_mark:  | `:heavy_check_mark:`  | :heavy_division_sign:  | `:heavy_division_sign:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
 
 
-hearts
-heavy_check_mark
-heavy_division_sign
+
+
+
 heavy_dollar_sign
 heavy_exclamation_mark
 heavy_minus_sign
