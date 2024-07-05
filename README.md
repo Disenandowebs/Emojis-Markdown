@@ -166,7 +166,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :herb:  | `:herb:`  | :hibiscus:  | `:hibiscus:`  | :high_brightness:  | `:high_brightness:`  |
 | :high_heel:  | `:high_heel:`  | :hocho:  | `:hocho:`  | :honey_pot:  | `:honey_pot:`  |
 | :honeybee:  | `:honeybee:`  | :horse:  | `:horse:`  | :horse_racing:  | `:horse_racing:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :hospital:  | `:hospital:`  | :hotel:  | `:hotel:`  | :hotsprings:  | `:hotsprings:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -174,9 +174,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-hospital
-hotel
-hotsprings
+
+
+
 hourglass
 hourglass_flowing_sand
 house
