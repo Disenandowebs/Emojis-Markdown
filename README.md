@@ -164,7 +164,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :heavy_dollar_sign:  | `:heavy_dollar_sign:`  | :heavy_exclamation_mark:  | `:heavy_exclamation_mark:`  | :heavy_minus_sign:  | `:heavy_minus_sign:`  |
 | :heavy_multiplication_x:  | `:heavy_multiplication_x:`  | :heavy_plus_sign:  | `:heavy_plus_sign:`  | :helicopter:  | `:helicopter:`  |
 | :herb:  | `:herb:`  | :hibiscus:  | `:hibiscus:`  | :high_brightness:  | `:high_brightness:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :high_heel:  | `:high_heel:`  | :hocho:  | `:hocho:`  | :honey_pot:  | `:honey_pot:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -177,12 +177,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-
-
-
-high_heel
-hocho
-honey_pot
 honeybee
 horse
 horse_racing
