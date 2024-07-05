@@ -165,7 +165,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :heavy_multiplication_x:  | `:heavy_multiplication_x:`  | :heavy_plus_sign:  | `:heavy_plus_sign:`  | :helicopter:  | `:helicopter:`  |
 | :herb:  | `:herb:`  | :hibiscus:  | `:hibiscus:`  | :high_brightness:  | `:high_brightness:`  |
 | :high_heel:  | `:high_heel:`  | :hocho:  | `:hocho:`  | :honey_pot:  | `:honey_pot:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :honeybee:  | `:honeybee:`  | :horse:  | `:horse:`  | :horse_racing:  | `:horse_racing:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -174,12 +174,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-
-
-
-honeybee
-horse
-horse_racing
 hospital
 hotel
 hotsprings
