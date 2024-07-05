@@ -168,7 +168,12 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :honeybee:  | `:honeybee:`  | :horse:  | `:horse:`  | :horse_racing:  | `:horse_racing:`  |
 | :hospital:  | `:hospital:`  | :hotel:  | `:hotel:`  | :hotsprings:  | `:hotsprings:`  |
 | :hourglass:  | `:hourglass:`  | :hourglass_flowing_sand:  | `:hourglass_flowing_sand:`  | :house:  | `:house:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :house_with_garden:  | `:house_with_garden:`  | :hushed:  | `:hushed:`  | ::  | `::`  |
+
+## LETRA I ::
+
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -177,8 +182,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-house_with_garden
-hushed
+
+
 
 
 
