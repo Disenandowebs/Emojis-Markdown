@@ -179,7 +179,20 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-
+ice_cream
+icecream
+id
+ideograph_advantage
+imp
+inbox_tray
+incoming_envelope
+information_desk_person
+information_source
+innocent
+interrobang
+iphone
+it
+izakaya_lantern
 
 
 
