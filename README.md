@@ -162,8 +162,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :heart_eyes_cat:  | `:heart_eyes_cat:`  | :heartbeat:  | `:heartbeat:`  | :heartpulse:  | `:heartpulse:`  |
 | :hearts:  | `:hearts:`  | :heavy_check_mark:  | `:heavy_check_mark:`  | :heavy_division_sign:  | `:heavy_division_sign:`  |
 | :heavy_dollar_sign:  | `:heavy_dollar_sign:`  | :heavy_exclamation_mark:  | `:heavy_exclamation_mark:`  | :heavy_minus_sign:  | `:heavy_minus_sign:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :heavy_multiplication_x:  | `:heavy_multiplication_x:`  | :heavy_plus_sign:  | `:heavy_plus_sign:`  | :helicopter:  | `:helicopter:`  |
+| :herb:  | `:herb:`  | :hibiscus:  | `:hibiscus:`  | :high_brightness:  | `:high_brightness:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -174,12 +174,12 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-heavy_multiplication_x
-heavy_plus_sign
-helicopter
-herb
-hibiscus
-high_brightness
+
+
+
+
+
+
 high_heel
 hocho
 honey_pot
