@@ -178,7 +178,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :ideograph_advantage:  | `:ideograph_advantage:`  | :imp:  | `:imp:`  | :inbox_tray:  | `:inbox_tray:`  |
 | :incoming_envelope:  | `:incoming_envelope:`  | :information_desk_person:  | `:information_desk_person:`  | :information_source:  | `:information_source:`  |
 | :innocent:  | `:innocent:`  | :interrobang:  | `:interrobang:`  | :iphone:  | `:iphone:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :it:  | `:it:`  | :izakaya_lantern:  | `:izakaya_lantern:`  | ::  | `::`  |
+
+
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -193,8 +195,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-it
-izakaya_lantern
+
+
 
 
 
