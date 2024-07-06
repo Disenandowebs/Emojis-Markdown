@@ -170,18 +170,18 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :hourglass:  | `:hourglass:`  | :hourglass_flowing_sand:  | `:hourglass_flowing_sand:`  | :house:  | `:house:`  |
 | :house_with_garden:  | `:house_with_garden:`  | :hushed:  | `:hushed:`  | ::  | `::`  |
 
-## LETRA I ::
+## LETRA I :id:
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :ice_cream:  | `:ice_cream:`  | :icecream:  | `:icecream:`  | :id:  | `:id:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-ice_cream
-icecream
-id
+
+
+
 ideograph_advantage
 imp
 inbox_tray
