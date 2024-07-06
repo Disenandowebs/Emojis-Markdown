@@ -176,7 +176,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :ice_cream:  | `:ice_cream:`  | :icecream:  | `:icecream:`  | :id:  | `:id:`  |
 | :ideograph_advantage:  | `:ideograph_advantage:`  | :imp:  | `:imp:`  | :inbox_tray:  | `:inbox_tray:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :incoming_envelope:  | `:incoming_envelope:`  | :information_desk_person:  | `:information_desk_person:`  | :information_source:  | `:information_source:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -190,10 +190,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-
-incoming_envelope
-information_desk_person
-information_source
 innocent
 interrobang
 iphone
