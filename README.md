@@ -180,8 +180,11 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :innocent:  | `:innocent:`  | :interrobang:  | `:interrobang:`  | :iphone:  | `:iphone:`  |
 | :it:  | `:it:`  | :izakaya_lantern:  | `:izakaya_lantern:`  | ::  | `::`  |
 
+## LETRA J ::
 
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| :jack_o_lantern:  | `:jack_o_lantern:`  | :japan:  | `:japan:`  | :japanese_castle:  | `:japanese_castle:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -190,9 +193,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-jack_o_lantern
-japan
-japanese_castle
+
+
+
 japanese_goblin
 japanese_ogre
 jeans
