@@ -185,7 +185,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :jack_o_lantern:  | `:jack_o_lantern:`  | :japan:  | `:japan:`  | :japanese_castle:  | `:japanese_castle:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :japanese_goblin:  | `:japanese_goblin:`  | :japanese_ogre:  | `:japanese_ogre:`  | :jeans:  | `:jeans:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -196,9 +196,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-japanese_goblin
-japanese_ogre
-jeans
 joy
 joy_cat
 jp
