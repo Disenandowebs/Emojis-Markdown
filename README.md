@@ -190,7 +190,15 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-
+jack_o_lantern
+japan
+japanese_castle
+japanese_goblin
+japanese_ogre
+jeans
+joy
+joy_cat
+jp
 
 
 
