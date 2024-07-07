@@ -168,7 +168,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :honeybee:  | `:honeybee:`  | :horse:  | `:horse:`  | :horse_racing:  | `:horse_racing:`  |
 | :hospital:  | `:hospital:`  | :hotel:  | `:hotel:`  | :hotsprings:  | `:hotsprings:`  |
 | :hourglass:  | `:hourglass:`  | :hourglass_flowing_sand:  | `:hourglass_flowing_sand:`  | :house:  | `:house:`  |
-| :house_with_garden:  | `:house_with_garden:`  | :hushed:  | `:hushed:`  | ::  | `::`  |
+| :house_with_garden:  | `:house_with_garden:`  | :hushed:  | `:hushed:`  |   |   |
 
 ## LETRA I :id:
 
@@ -178,7 +178,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :ideograph_advantage:  | `:ideograph_advantage:`  | :imp:  | `:imp:`  | :inbox_tray:  | `:inbox_tray:`  |
 | :incoming_envelope:  | `:incoming_envelope:`  | :information_desk_person:  | `:information_desk_person:`  | :information_source:  | `:information_source:`  |
 | :innocent:  | `:innocent:`  | :interrobang:  | `:interrobang:`  | :iphone:  | `:iphone:`  |
-| :it:  | `:it:`  | :izakaya_lantern:  | `:izakaya_lantern:`  | ::  | `::`  |
+| :it:  | `:it:`  | :izakaya_lantern:  | `:izakaya_lantern:`  |   |   |
 
 ## LETRA J :jeans:
 
@@ -186,7 +186,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :jack_o_lantern:  | `:jack_o_lantern:`  | :japan:  | `:japan:`  | :japanese_castle:  | `:japanese_castle:`  |
 | :japanese_goblin:  | `:japanese_goblin:`  | :japanese_ogre:  | `:japanese_ogre:`  | :jeans:  | `:jeans:`  |
-| :joy:  | `:joy:`  | :jp:  | `:jp:`  | ::  | `::`  |
+| :joy:  | `:joy:`  | :jp:  | `:jp:`  |   |  |
 
 ## LETRA K :key:
 
