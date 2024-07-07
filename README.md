@@ -88,7 +88,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :crown:  | `:crown:`  | :cry:  | `:cry:`  | :crying_cat_face:  | `:crying_cat_face:`  |
 | :crystal_ball:  | `:crystal_ball:`  | :cupid:  | `:cupid:`  | :curly_loop:  | `:curly_loop:`  |
 | :currency_exchange:  | `:currency_exchange:`  | :curry:  | `:curry:`  | :custard:  | `:custard:`  |
-| :customs:  | `:customs:`  | :cyclone:  | `:cyclone:`  | ::  | `::`  |
+| :customs:  | `:customs:`  | :cyclone:  | `:cyclone:`  |   |   |
 
 ## LETRA D :dancer:
 
