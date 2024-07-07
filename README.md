@@ -103,7 +103,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :dollar:  | `:dollar:`  | :dolls:  | `:dolls:`  | :dolphin:  | `:dolphin:`  |
 | :door:  | `:door:`  | :doughnut:  | `:doughnut:`  | :dragon:  | `:dragon:`  |
 | :dragon_face:  | `:dragon_face:`  | :dress:  | `:dress:`  | :dromedary_camel:  | `:dromedary_camel:`  |
-| :droplet:  | `:droplet:`  | :dvd:  | `:dvd:`  | ::  | `::`  |
+| :droplet:  | `:droplet:`  | :dvd:  | `:dvd:`  |   |   |
 
 ## LETRA E :e-mail:
 
@@ -135,7 +135,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :four_leaf_clover:  | `:four_leaf_clover:`  | :fr:  | `:fr:`  | :free:  | `:free:`  |
 | :fried_shrimp:  | `:fried_shrimp:`  | :fries:  | `:fries:`  | :frog:  | `:frog:`  |
 | :frowning:  | `:frowning:`  | :fu:  | `:fu:`  | :fuelpump:  | `:fuelpump:`  |
-| :full_moon:  | `:full_moon:`  | :full_moon_with_face:  | `:full_moon_with_face:`  | ::  | `::`  |
+| :full_moon:  | `:full_moon:`  | :full_moon_with_face:  | `:full_moon_with_face:`  |   |   |
 
 ## LETRA G :game_die:
 
@@ -148,7 +148,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :green_apple:  | `:green_apple:`  | :green_book:  | `:green_book:`  | :green_heart:  | `:green_heart:`  |
 | :grey_exclamation:  | `:grey_exclamation:`  | :grey_question:  | `:grey_question:`  | :grimacing:  | `:grimacing:`  |
 | :grin:  | `:grin:`  | :grinning:  | `:grinning:`  | :guardsman:  | `:guardsman:`  |
-| :guitar:  | `:guitar:`  | :gun:  | `:gun:`  | ::  | `::`  |
+| :guitar:  | `:guitar:`  | :gun:  | `:gun:`  |  |  |
 
 ## LETRA H :horse:
 
