@@ -204,7 +204,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :large_blue_circle:  | `:large_blue_circle:`  | :large_blue_diamond:  | `:large_blue_diamond:`  | :large_orange_diamond:  | `:large_orange_diamond:`  |
 | :last_quarter_moon:  | `:last_quarter_moon:`  | :last_quarter_moon_with_face:  | `:last_quarter_moon_with_face:`  | :laughing:  | `:laughing:`  |
 | :leaves:  | `:leaves:`  | :ledger:  | `:ledger:`  | :left_luggage:  | `:left_luggage:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :left_right_arrow:  | `:left_right_arrow:`  | :leftwards_arrow_with_hook:  | `:leftwards_arrow_with_hook:`  | :lemon:  | `:lemon:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -218,12 +218,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-
-
-
-left_right_arrow
-leftwards_arrow_with_hook
-lemon
 leo
 leopard
 libra
