@@ -194,17 +194,17 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :key:  | `:key:`  | :keycap_ten:  | `:keycap_ten:`  | :kimono:  | `:kimono:`  |
 | :kiss:  | `:kiss:`  | :kissing:  | `:kissing:`  | :kissing_cat:  | `:kissing_cat:`  |
+| :kissing_closed_eyes:  | `:kissing_closed_eyes:`  | :kissing_heart:  | `:kissing_heart:`  | :kissing_smiling_eyes:  | `:kissing_smiling_eyes:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
 
 
 
-kissing_closed_eyes
-kissing_heart
-kissing_smiling_eyes
+
+
+
 koala
 koko
 kr
