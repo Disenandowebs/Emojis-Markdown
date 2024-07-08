@@ -197,11 +197,11 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :kissing_closed_eyes:  | `:kissing_closed_eyes:`  | :kissing_heart:  | `:kissing_heart:`  | :kissing_smiling_eyes:  | `:kissing_smiling_eyes:`  |
 | :koala:  | `:koala:`  | :koko:  | `:koko:`  | :kr:  | `:kr:`  |
 
-## LETRA K :key:
+## LETRA L :leo:
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| :large_blue_circle:  | `:large_blue_circle:`  | ::  | `::`  | ::  | `::`  |
+| :large_blue_circle:  | `:large_blue_circle:`  | :large_blue_diamond:  | `:large_blue_diamond:`  | :large_orange_diamond:  | `:large_orange_diamond:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -219,8 +219,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
-large_blue_diamond
-large_orange_diamond
+
+
 last_quarter_moon
 last_quarter_moon_with_face
 laughing
