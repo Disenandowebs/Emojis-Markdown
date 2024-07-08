@@ -196,10 +196,55 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :kiss:  | `:kiss:`  | :kissing:  | `:kissing:`  | :kissing_cat:  | `:kissing_cat:`  |
 | :kissing_closed_eyes:  | `:kissing_closed_eyes:`  | :kissing_heart:  | `:kissing_heart:`  | :kissing_smiling_eyes:  | `:kissing_smiling_eyes:`  |
 | :koala:  | `:koala:`  | :koko:  | `:koko:`  | :kr:  | `:kr:`  |
+
+## LETRA K :key:
+
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| :large_blue_circle:  | `:large_blue_circle:`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
-
+large_blue_diamond
+large_orange_diamond
+last_quarter_moon
+last_quarter_moon_with_face
+laughing
+leaves
+ledger
+left_luggage
+left_right_arrow
+leftwards_arrow_with_hook
+lemon
+leo
+leopard
+libra
+light_rail
+link
+lips
+lipstick
+lock
+lock_with_ink_pen
+lollipop
+loop
+loudspeaker
+love_hotel
+love_letter
+low_brightness
 
 
 
