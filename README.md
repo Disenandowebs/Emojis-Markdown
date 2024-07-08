@@ -202,8 +202,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :large_blue_circle:  | `:large_blue_circle:`  | :large_blue_diamond:  | `:large_blue_diamond:`  | :large_orange_diamond:  | `:large_orange_diamond:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :last_quarter_moon:  | `:last_quarter_moon:`  | :last_quarter_moon_with_face:  | `:last_quarter_moon_with_face:`  | :laughing:  | `:laughing:`  |
+| :leaves:  | `:leaves:`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -219,12 +219,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
-
-
-last_quarter_moon
-last_quarter_moon_with_face
-laughing
-leaves
 ledger
 left_luggage
 left_right_arrow
