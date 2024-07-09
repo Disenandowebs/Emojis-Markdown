@@ -209,7 +209,12 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :light_rail:  | `:light_rail:`  | :link:  | `:link:`  | :lips:  | `:lips:`  |
 | :lipstick:  | `:lipstick:`  | :lock:  | `:lock:`  | :lock_with_ink_pen:  | `:lock_with_ink_pen:`  |
 | :lollipop:  | `:lollipop:`  | :loop:  | `:loop:`  | :loudspeaker:  | `:loudspeaker:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :love_hotel:  | `:love_hotel:`  | :love_letter:  | `:love_letter:`  | :low_brightness:  | `:low_brightness:`  |
+
+## LETRA M ::
+
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -221,9 +226,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-love_hotel
-love_letter
-low_brightness
 
 
 
