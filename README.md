@@ -208,7 +208,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :leo:  | `:leo:`  | :leopard:  | `:leopard:`  | :libra:  | `:libra:`  |
 | :light_rail:  | `:light_rail:`  | :link:  | `:link:`  | :lips:  | `:lips:`  |
 | :lipstick:  | `:lipstick:`  | :lock:  | `:lock:`  | :lock_with_ink_pen:  | `:lock_with_ink_pen:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :lollipop:  | `:lollipop:`  | :loop:  | `:loop:`  | :loudspeaker:  | `:loudspeaker:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -218,9 +218,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-lollipop
-loop
-loudspeaker
+
+
+
 love_hotel
 love_letter
 low_brightness
