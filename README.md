@@ -207,7 +207,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :left_right_arrow:  | `:left_right_arrow:`  | :leftwards_arrow_with_hook:  | `:leftwards_arrow_with_hook:`  | :lemon:  | `:lemon:`  |
 | :leo:  | `:leo:`  | :leopard:  | `:leopard:`  | :libra:  | `:libra:`  |
 | :light_rail:  | `:light_rail:`  | :link:  | `:link:`  | :lips:  | `:lips:`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :lipstick:  | `:lipstick:`  | :lock:  | `:lock:`  | :lock_with_ink_pen:  | `:lock_with_ink_pen:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
@@ -218,9 +218,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-lipstick
-lock
-lock_with_ink_pen
 lollipop
 loop
 loudspeaker
