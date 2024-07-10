@@ -211,24 +211,21 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :lollipop:  | `:lollipop:`  | :loop:  | `:loop:`  | :loudspeaker:  | `:loudspeaker:`  |
 | :love_hotel:  | `:love_hotel:`  | :love_letter:  | `:love_letter:`  | :low_brightness:  | `:low_brightness:`  |
 
-## LETRA M ::
+## LETRA M :m:
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :m:  | `:m:`  | :mag:  | `:mag:`  | :mag_right:  | `:mag_right:`  |
+| :mahjong:  | `:mahjong:`  | :mailbox:  | `:mailbox:`  | :mailbox_closed:  | `:mailbox_closed:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-m
-mag
-mag_right
-mahjong
-mailbox
-mailbox_closed
+
+
+
 mailbox_with_mail
 mailbox_with_no_mail
 man
