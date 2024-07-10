@@ -218,10 +218,10 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :m:  | `:m:`  | :mag:  | `:mag:`  | :mag_right:  | `:mag_right:`  |
 | :mahjong:  | `:mahjong:`  | :mailbox:  | `:mailbox:`  | :mailbox_closed:  | `:mailbox_closed:`  |
 | :mailbox_with_mail:  | `:mailbox_with_mail:`  | :mailbox_with_no_mail:  | `:mailbox_with_no_mail:`  | :man:  | `:man:`  |
+| :man_with_gua_pi_mao:  | `:man_with_gua_pi_mao:`  | :man_with_turban:  | `:man_with_turban:`  | :mans_shoe:  | `:mans_shoe:`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
 
 
@@ -229,9 +229,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-man_with_gua_pi_mao
-man_with_turban
-mans_shoe
+
+
+
 maple_leaf
 mask
 massage
