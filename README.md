@@ -223,7 +223,55 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 | ::  | `::`  | ::  | `::`  | ::  | `::`  |
 
-
+m
+mag
+mag_right
+mahjong
+mailbox
+mailbox_closed
+mailbox_with_mail
+mailbox_with_no_mail
+man
+man_with_gua_pi_mao
+man_with_turban
+mans_shoe
+maple_leaf
+mask
+massage
+meat_on_bone
+mega
+melon
+memo
+mens
+metal
+metro
+microphone
+microscope
+milky_way
+minibus
+minidisc
+mobile_phone_off
+money_with_wings
+moneybag
+monkey
+monkey_face
+monorail
+moon
+mortar_board
+mount_fuji
+mountain_bicyclist
+mountain_cableway
+mountain_railway
+mouse
+mouse2
+movie_camera
+moyai
+muscle
+mushroom
+musical_keyboard
+musical_note
+musical_score
+mute
 
 
 
