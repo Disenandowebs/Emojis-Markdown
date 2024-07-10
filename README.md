@@ -220,8 +220,18 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :mailbox_with_mail:  | `:mailbox_with_mail:`  | :mailbox_with_no_mail:  | `:mailbox_with_no_mail:`  | :man:  | `:man:`  |
 | :man_with_gua_pi_mao:  | `:man_with_gua_pi_mao:`  | :man_with_turban:  | `:man_with_turban:`  | :mans_shoe:  | `:mans_shoe:`  |
 | :maple_leaf:  | `:maple_leaf:`  | :mask: | `:mask:` | :massage: | `:massage:` |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
-| ::  | `::`  | ::  | `::`  | ::  | `::`  |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
 
 
 
