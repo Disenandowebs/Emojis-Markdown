@@ -223,7 +223,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :meat_on_bone: | `:meat_on_bone:` | :mega: | `:mega:` | :melon: | `:melon:` |
 | :memo: | `:memo:` | :mens: | `:mens:` | :metal: | `:metal:` |
 | :metro: | `:metro:` | :microphone: | `:microphone:` | :microscope: | `:microscope:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :milky_way: | `:milky_way:` | :minibus: | `:minibus:` | :minidisc: | `:minidisc:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -236,9 +236,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-milky_way
-minibus
-minidisc
 mobile_phone_off
 money_with_wings
 moneybag
