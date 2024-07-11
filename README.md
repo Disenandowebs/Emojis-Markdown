@@ -224,7 +224,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :memo: | `:memo:` | :mens: | `:mens:` | :metal: | `:metal:` |
 | :metro: | `:metro:` | :microphone: | `:microphone:` | :microscope: | `:microscope:` |
 | :milky_way: | `:milky_way:` | :minibus: | `:minibus:` | :minidisc: | `:minidisc:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :mobile_phone_off: | `:mobile_phone_off:` | :money_with_wings: | `:money_with_wings:` | :moneybag: | `:moneybag:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -236,9 +236,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-mobile_phone_off
-money_with_wings
-moneybag
 monkey
 monkey_face
 monorail
