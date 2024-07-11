@@ -221,7 +221,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :man_with_gua_pi_mao:  | `:man_with_gua_pi_mao:`  | :man_with_turban:  | `:man_with_turban:`  | :mans_shoe:  | `:mans_shoe:`  |
 | :maple_leaf:  | `:maple_leaf:`  | :mask: | `:mask:` | :massage: | `:massage:` |
 | :meat_on_bone: | `:meat_on_bone:` | :mega: | `:mega:` | :melon: | `:melon:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :memo: | `:memo:` | :mens: | `:mens:` | :metal: | `:metal:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -233,11 +233,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-
-
-memo
-mens
-metal
 metro
 microphone
 microscope
