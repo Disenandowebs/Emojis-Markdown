@@ -222,7 +222,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :maple_leaf:  | `:maple_leaf:`  | :mask: | `:mask:` | :massage: | `:massage:` |
 | :meat_on_bone: | `:meat_on_bone:` | :mega: | `:mega:` | :melon: | `:melon:` |
 | :memo: | `:memo:` | :mens: | `:mens:` | :metal: | `:metal:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :metro: | `:metro:` | :microphone: | `:microphone:` | :microscope: | `:microscope:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -233,9 +233,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-metro
-microphone
-microscope
+
+
+
 milky_way
 minibus
 minidisc
