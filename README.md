@@ -248,7 +248,32 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-
+nail_care
+name_badge
+necktie
+negative_squared_cross_mark
+neutral_face
+new
+new_moon
+new_moon_with_face
+newspaper
+ng
+nine
+no_bell
+no_bicycles
+no_entry
+no_entry_sign
+no_good
+no_mobile_phones
+no_mouth
+no_pedestrians
+no_smoking
+non-potable_water
+nose
+notebook
+notebook_with_decorative_cover
+notes
+nut_and_bolt
 
 
 
