@@ -226,20 +226,20 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :milky_way: | `:milky_way:` | :minibus: | `:minibus:` | :minidisc: | `:minidisc:` |
 | :mobile_phone_off: | `:mobile_phone_off:` | :money_with_wings: | `:money_with_wings:` | :moneybag: | `:moneybag:` |
 | :monkey: | `:monkey:` | :monkey_face: | `:monkey_face:` | :monorail: | `:monorail:` |
-| :: | `::` | :: | `::` | :: | `::` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :moon: | `:moon:` | :mortar_board: | `:mortar_board:` | :mount_fuji: | `:mount_fuji:` |
+| :mountain_bicyclist: | `:mountain_bicyclist:` | :mountain_cableway: | `:mountain_cableway:` | :mountain_railway: | `:mountain_railway:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-moon
-mortar_board
-mount_fuji
-mountain_bicyclist
-mountain_cableway
-mountain_railway
+
+
+
+
+
+
 mouse
 mouse2
 movie_camera
