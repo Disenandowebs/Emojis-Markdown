@@ -231,7 +231,12 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :mouse: | `:mouse:` | :mouse2: | `:mouse2:` | :movie_camera: | `:movie_camera:` |
 | :moyai: | `:moyai:` | :muscle: | `:muscle:` | :mushroom: | `:mushroom:` |
 | :musical_keyboard: | `:musical_keyboard:` | :musical_note: | `:musical_note:` | :musical_score: | `:musical_score:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :mute: | `:mute:` | :: | `::` | :: | `::` |
+
+## LETRA N ::
+
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -243,7 +248,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-mute
+
 
 
 
