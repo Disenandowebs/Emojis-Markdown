@@ -228,21 +228,21 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :monkey: | `:monkey:` | :monkey_face: | `:monkey_face:` | :monorail: | `:monorail:` |
 | :moon: | `:moon:` | :mortar_board: | `:mortar_board:` | :mount_fuji: | `:mount_fuji:` |
 | :mountain_bicyclist: | `:mountain_bicyclist:` | :mountain_cableway: | `:mountain_cableway:` | :mountain_railway: | `:mountain_railway:` |
+| :mouse: | `:mouse:` | :mouse2: | `:mouse2:` | :movie_camera: | `:movie_camera:` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-
-
-
-
-
-
-mouse
-mouse2
-movie_camera
 moyai
 muscle
 mushroom
