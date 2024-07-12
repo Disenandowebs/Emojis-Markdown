@@ -229,7 +229,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :moon: | `:moon:` | :mortar_board: | `:mortar_board:` | :mount_fuji: | `:mount_fuji:` |
 | :mountain_bicyclist: | `:mountain_bicyclist:` | :mountain_cableway: | `:mountain_cableway:` | :mountain_railway: | `:mountain_railway:` |
 | :mouse: | `:mouse:` | :mouse2: | `:mouse2:` | :movie_camera: | `:movie_camera:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :moyai: | `:moyai:` | :muscle: | `:muscle:` | :mushroom: | `:mushroom:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -243,9 +243,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-moyai
-muscle
-mushroom
 musical_keyboard
 musical_note
 musical_score
