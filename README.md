@@ -242,7 +242,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :new_moon: | `:new_moon:` | :new_moon_with_face: | `:new_moon_with_face:` | :newspaper: | `:newspaper:` |
 | :ng: | `:ng:` | :nine: | `:nine:` | :no_bell: | `:no_bell:` |
 | :no_bicycles: | `:no_bicycles:` | :no_entry: | `:no_entry:` | :no_entry_sign: | `:no_entry_sign:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :no_good: | `:no_good:` | :no_mobile_phones: | `:no_mobile_phones:` | :no_mouth: | `:no_mouth:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -255,9 +255,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-no_good
-no_mobile_phones
-no_mouth
 no_pedestrians
 no_smoking
 non-potable_water
