@@ -240,19 +240,13 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :nail_care: | `:nail_care:` | :name_badge: | `:name_badge:` | :necktie: | `:necktie:` |
 | :negative_squared_cross_mark: | `:negative_squared_cross_mark:` | :neutral_face: | `:neutral_face:` | :new: | `:new:` |
 | :new_moon: | `:new_moon:` | :new_moon_with_face: | `:new_moon_with_face:` | :newspaper: | `:newspaper:` |
-| :ng: | `:ng:` | :nine: | `:nine:` | :: | `::` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :ng: | `:ng:` | :nine: | `:nine:` | :no_bell: | `:no_bell:` |
+| :no_bicycles: | `:no_bicycles:` | :no_entry: | `:no_entry:` | :no_entry_sign: | `:no_entry_sign:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-
-
-no_bell
-no_bicycles
-no_entry
-no_entry_sign
 no_good
 no_mobile_phones
 no_mouth
