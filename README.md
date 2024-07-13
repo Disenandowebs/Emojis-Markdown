@@ -233,12 +233,12 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :musical_keyboard: | `:musical_keyboard:` | :musical_note: | `:musical_note:` | :musical_score: | `:musical_score:` |
 | :mute: | `:mute:` | :: | `::` | :: | `::` |
 
-## LETRA N ::
+## LETRA N :new:
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :nail_care: | `:nail_care:` | :name_badge: | `:name_badge:` | :necktie: | `:necktie:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :negative_squared_cross_mark: | `:negative_squared_cross_mark:` | :neutral_face: | `:neutral_face:` | :new: | `:new:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -251,9 +251,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-negative_squared_cross_mark
-neutral_face
-new
+
+
+
 new_moon
 new_moon_with_face
 newspaper
