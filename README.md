@@ -231,7 +231,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :mouse: | `:mouse:` | :mouse2: | `:mouse2:` | :movie_camera: | `:movie_camera:` |
 | :moyai: | `:moyai:` | :muscle: | `:muscle:` | :mushroom: | `:mushroom:` |
 | :musical_keyboard: | `:musical_keyboard:` | :musical_note: | `:musical_note:` | :musical_score: | `:musical_score:` |
-| :mute: | `:mute:` | :: | `::` | :: | `::` |
+| :mute: | `:mute:` |  |  |  |  |
 
 ## LETRA N :new:
 
@@ -245,7 +245,12 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :no_good: | `:no_good:` | :no_mobile_phones: | `:no_mobile_phones:` | :no_mouth: | `:no_mouth:` |
 | :no_pedestrians: | `:no_pedestrians:` | :no_smoking: | `:no_smoking:` | :non-potable_water: | `:non-potable_water:` |
 | :nose: | `:nose:` | :notebook: | `:notebook:` | :notebook_with_decorative_cover: | `:notebook_with_decorative_cover:` |
-| :notes: | `:notes:` | :nut_and_bolt: | `:nut_and_bolt:` | :: | `::` |
+| :notes: | `:notes:` | :nut_and_bolt: | `:nut_and_bolt:` |  |  |
+
+## LETRA O ::
+
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -255,7 +260,30 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-
+o
+o2
+ocean
+octopus
+oden
+office
+ok
+ok_hand
+ok_woman
+older_man
+older_woman
+on
+oncoming_automobile
+oncoming_bus
+oncoming_police_car
+oncoming_taxi
+one
+open_file_folder
+open_hands
+open_mouth
+ophiuchus
+orange_book
+outbox_tray
+ox
 
 
 
