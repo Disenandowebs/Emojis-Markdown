@@ -245,7 +245,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :no_good: | `:no_good:` | :no_mobile_phones: | `:no_mobile_phones:` | :no_mouth: | `:no_mouth:` |
 | :no_pedestrians: | `:no_pedestrians:` | :no_smoking: | `:no_smoking:` | :non-potable_water: | `:non-potable_water:` |
 | :nose: | `:nose:` | :notebook: | `:notebook:` | :notebook_with_decorative_cover: | `:notebook_with_decorative_cover:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :notes: | `:notes:` | :nut_and_bolt: | `:nut_and_bolt:` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -257,12 +257,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-
-
-
-
-notes
-nut_and_bolt
 
 
 
