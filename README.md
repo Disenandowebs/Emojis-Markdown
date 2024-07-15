@@ -247,11 +247,11 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :nose: | `:nose:` | :notebook: | `:notebook:` | :notebook_with_decorative_cover: | `:notebook_with_decorative_cover:` |
 | :notes: | `:notes:` | :nut_and_bolt: | `:nut_and_bolt:` |  |  |
 
-## LETRA O ::
+## LETRA O :o:
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| :: | `::` | :: | `::` | :: | `::` |
+| :o: | `:o:` | :o2: | `:o2:` | :ocean: | `:ocean:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -260,9 +260,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-o
-o2
-ocean
 octopus
 oden
 office
