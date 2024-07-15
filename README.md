@@ -252,7 +252,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :o: | `:o:` | :o2: | `:o2:` | :ocean: | `:ocean:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :octopus: | `:octopus:` | :oden: | `:oden:` | :office: | `:office:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -260,9 +260,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-octopus
-oden
-office
 ok
 ok_hand
 ok_woman
