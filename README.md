@@ -254,7 +254,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :o: | `:o:` | :o2: | `:o2:` | :ocean: | `:ocean:` |
 | :octopus: | `:octopus:` | :oden: | `:oden:` | :office: | `:office:` |
 | :ok: | `:ok:` | :ok_hand: | `:ok_hand:` | :ok_woman: | `:ok_woman:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :older_man: | `:older_man:` | :older_woman: | `:older_woman:` | :on: | `:on:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -267,9 +267,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-older_man
-older_woman
-on
 oncoming_automobile
 oncoming_bus
 oncoming_police_car
