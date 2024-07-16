@@ -259,6 +259,11 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :oncoming_taxi: | `:oncoming_taxi:` | :one: | `:one:` | :open_file_folder: | `:open_file_folder:` |
 | :open_hands: | `:open_hands:` | :open_mouth: | `:open_mouth:` | :ophiuchus: | `:ophiuchus:` |
 | :orange_book: | `:orange_book:` | :outbox_tray: | `:outbox_tray:` | :ox: | `:ox:` |
+
+## LETRA O :o:
+
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
