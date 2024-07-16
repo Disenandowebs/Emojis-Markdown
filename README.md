@@ -253,6 +253,12 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :o: | `:o:` | :o2: | `:o2:` | :ocean: | `:ocean:` |
 | :octopus: | `:octopus:` | :oden: | `:oden:` | :office: | `:office:` |
+| :ok: | `:ok:` | :ok_hand: | `:ok_hand:` | :ok_woman: | `:ok_woman:` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -260,9 +266,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-ok
-ok_hand
-ok_woman
+
 older_man
 older_woman
 on
