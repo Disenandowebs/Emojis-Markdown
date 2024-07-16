@@ -258,7 +258,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :oncoming_automobile: | `:oncoming_automobile:` | :oncoming_bus: | `:oncoming_bus:` | :oncoming_police_car: | `:oncoming_police_car:` |
 | :oncoming_taxi: | `:oncoming_taxi:` | :one: | `:one:` | :open_file_folder: | `:open_file_folder:` |
 | :open_hands: | `:open_hands:` | :open_mouth: | `:open_mouth:` | :ophiuchus: | `:ophiuchus:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :orange_book: | `:orange_book:` | :outbox_tray: | `:outbox_tray:` | :ox: | `:ox:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -269,9 +269,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-orange_book
-outbox_tray
-ox
 
 
 
