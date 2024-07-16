@@ -256,7 +256,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :ok: | `:ok:` | :ok_hand: | `:ok_hand:` | :ok_woman: | `:ok_woman:` |
 | :older_man: | `:older_man:` | :older_woman: | `:older_woman:` | :on: | `:on:` |
 | :oncoming_automobile: | `:oncoming_automobile:` | :oncoming_bus: | `:oncoming_bus:` | :oncoming_police_car: | `:oncoming_police_car:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :oncoming_taxi: | `:oncoming_taxi:` | :one: | `:one:` | :open_file_folder: | `:open_file_folder:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -267,10 +267,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-
-oncoming_taxi
-one
-open_file_folder
 open_hands
 open_mouth
 ophiuchus
