@@ -264,7 +264,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| :: | `::` | :: | `::` | :: | `::` |
+| :page_facing_up: | `:page_facing_up:` | :page_with_curl: | `:page_with_curl:` | :pager: | `:pager:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -272,6 +272,55 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
+
+
+palm_tree
+panda_face
+paperclip
+parking
+part_alternation_mark
+partly_sunny
+passport_control
+paw_prints
+peach
+pear
+pencil
+pencil2
+penguin
+pensive
+performing_arts
+persevere
+phone
+pig
+pig_nose
+pig2
+pill
+pineapple
+pisces
+pizza
+point_down
+point_left
+point_right
+point_up
+point_up_2
+police_car
+poodle
+poop
+post_office
+postal_horn
+postbox
+potable_water
+pouch
+poultry_leg
+pound
+pouting_cat
+pray
+princess
+punch
+purple_heart
+purse
+pushpin
+put_litter_in_its_place
 
 
 
