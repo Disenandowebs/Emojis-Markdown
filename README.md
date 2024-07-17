@@ -268,7 +268,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :palm_tree: | `:palm_tree:` | :panda_face: | `:panda_face:` | :paperclip: | `:paperclip:` |
 | :parking: | `:parking:` | :part_alternation_mark: | `:part_alternation_mark:` | :part_alternation_mark: | `:part_alternation_mark:` |
 | :partly_sunny: | `:partly_sunny:` | :passport_control: | `:passport_control:` | :paw_prints: | `:paw_prints:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :peach: | `:peach:` | :pear: | `:pear:` | :pencil: | `:pencil:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -282,11 +282,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-
-
-peach
-pear
-pencil
 pencil2
 penguin
 pensive
