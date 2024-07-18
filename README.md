@@ -273,7 +273,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :performing_arts: | `:performing_arts:` | :persevere: | `:persevere:` | :phone: | `:phone:` |
 | :pig: | `:pig:` | :pig_nose: | `:pig_nose:` | :pig2: | `:pig2:` |
 | :pill: | `:pill:` | :pineapple: | `:pineapple:` | :pisces: | `:pisces:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :pizza: | `:pizza:` | :point_down: | `:point_down:` | :point_left: | `:point_left:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -294,9 +294,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-pizza
-point_down
-point_left
 point_right
 point_up
 point_up_2
