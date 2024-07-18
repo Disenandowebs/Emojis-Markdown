@@ -272,6 +272,18 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :pencil2: | `:pencil2:` | :penguin: | `:penguin:` | :pensive: | `:pensive:` |
 | :performing_arts: | `:performing_arts:` | :persevere: | `:persevere:` | :phone: | `:phone:` |
 | :pig: | `:pig:` | :pig_nose: | `:pig_nose:` | :pig2: | `:pig2:` |
+| :pill: | `:pill:` | :pineapple: | `:pineapple:` | :pisces: | `:pisces:` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -279,9 +291,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-pill
-pineapple
-pisces
+
+
+
 pizza
 point_down
 point_left
