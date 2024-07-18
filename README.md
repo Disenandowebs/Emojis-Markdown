@@ -274,7 +274,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :pig: | `:pig:` | :pig_nose: | `:pig_nose:` | :pig2: | `:pig2:` |
 | :pill: | `:pill:` | :pineapple: | `:pineapple:` | :pisces: | `:pisces:` |
 | :pizza: | `:pizza:` | :point_down: | `:point_down:` | :point_left: | `:point_left:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :point_right: | `:point_right:` | :point_up: | `:point_up:` | :point_up_2: | `:point_up_2:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -292,11 +292,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-
-
-point_right
-point_up
-point_up_2
 police_car
 poodle
 poop
