@@ -287,7 +287,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :page_facing_up: | `:page_facing_up:` | :page_with_curl: | `:page_with_curl:` | :pager: | `:pager:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :palm_tree: | `:palm_tree:` | :panda_face: | `:panda_face:` | :paperclip: | `:paperclip:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -296,12 +296,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-
-
-
-palm_tree
-panda_face
-paperclip
 parking
 part_alternation_mark
 partly_sunny
