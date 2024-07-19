@@ -278,7 +278,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :police_car: | `:police_car:` | :poodle: | `:poodle:` | :poop: | `:poop:` |
 | :post_office: | `:post_office:` | :postal_horn: | `:postal_horn:` | :postbox: | `:postbox:` |
 | :potable_water: | `:potable_water:` | :pouch: | `:pouch:` | :poultry_leg: | `:poultry_leg:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :pound: | `:pound:` | :pouting_cat: | `:pouting_cat:` | :pray: | `:pray:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -291,12 +291,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-
-
-
-pound
-pouting_cat
-pray
 princess
 punch
 purple_heart
