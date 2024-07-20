@@ -292,7 +292,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :passport_control: | `:passport_control:` | :paw_prints: | `:paw_prints:` | :peach: | `:peach:` |
 | :pear: | `:pear:` | :pencil: | `:pencil:` | :pencil2: | `:pencil2:` |
 | :penguin: | `:penguin:` | :pensive: | `:pensive:` | :performing_arts: | `:performing_arts:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :persevere: | `:persevere:` | :phone: | `:phone:` | :pig: | `:pig:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -307,11 +307,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-
-
-persevere
-phone
-pig
 pig_nose
 pig2
 pill
