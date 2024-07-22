@@ -302,7 +302,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :pouch: | `:pouch:` | :poultry_leg: | `:poultry_leg:` | :pound: | `:pound:` |
 | :pouting_cat: | `:pouting_cat:` | :pray: | `:pray:` | :princess: | `:princess:` |
 | :punch: | `:punch:` | :purple_heart: | `:purple_heart:` | :purse: | `:purse:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :pushpin: | `:pushpin:` | :put_litter_in_its_place: | `:put_litter_in_its_place:` |  |  |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -314,8 +314,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-pushpin
-put_litter_in_its_place
+
+
 
 
 
