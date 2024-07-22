@@ -303,6 +303,24 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :pouting_cat: | `:pouting_cat:` | :pray: | `:pray:` | :princess: | `:princess:` |
 | :punch: | `:punch:` | :purple_heart: | `:purple_heart:` | :purse: | `:purse:` |
 | :pushpin: | `:pushpin:` | :put_litter_in_its_place: | `:put_litter_in_its_place:` |  |  |
+
+## LETRA Q :question:
+
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| :question: | `:question:` |  |  |  |  |
+
+## LETRA R ::
+
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -314,7 +332,253 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-
+rabbit
+rabbit2
+racehorse
+radio
+radio_button
+rage
+railway_car
+rainbow
+raised_hand
+raised_hands
+raising_hand
+ram
+ramen
+rat
+recycle
+red_car
+red_circle
+registered
+relaxed
+relieved
+repeat
+repeat_one
+restroom
+revolving_hearts
+rewind
+ribbon
+rice
+rice_ball
+rice_cracker
+rice_scene
+ring
+rocket
+rocket
+roller_coaster
+rooster
+rose
+rotating_light
+round_pushpin
+rowboat
+ru
+rugby_football
+runner
+running
+running_shirt_with_sash
+sa
+sagittarius
+sailboat
+sake
+sandal
+santa
+satellite
+satisfied
+saxophone
+school
+school_satchel
+scissors
+scorpius
+scream
+scream_cat
+scroll
+seat
+secret
+see_no_evil
+seedling
+seven
+shaved_ice
+sheep
+shell
+ship
+shirt
+shit
+shoe
+shower
+signal_strength
+six
+six_pointed_star
+ski
+skull
+sleeping
+sleepy
+slot_machine
+small_blue_diamond
+small_orange_diamond
+small_red_triangle
+small_red_triangle_down
+smile
+smile_cat
+smiley
+smiley_cat
+smiling_imp
+smirk
+smirk_cat
+smoking
+snail
+snake
+snowboarder
+snowflake
+snowman
+sob
+soccer
+soon
+sos
+sound
+space_invader
+spades
+spaghetti
+sparkler
+sparkles
+sparkling_heart
+speak_no_evil
+speaker
+speech_balloon
+speedboat
+star
+star2
+stars
+station
+statue_of_liberty
+steam_locomotive
+stew
+straight_ruler
+strawberry
+stuck_out_tongue
+stuck_out_tongue_closed_eyes
+stuck_out_tongue_winking_eye
+sun_with_face
+sunflower
+sunglasses
+sunny
+sunrise
+sunrise_over_mountains
+surfer
+sushi
+suspension_railway
+sweat
+sweat_drops
+sweat_smile
+sweet_potato
+swimmer
+symbols
+syringe
+tada
+tanabata_tree
+tangerine
+taurus
+taxi
+tea
+telephone
+telephone_receiver
+telescope
+tennis
+tent
+thought_balloon
+three
+thumbsdown
+thumbsup
+ticket
+tiger
+tiger2
+tired_face
+tm
+toilet
+tokyo_tower
+tomato
+tongue
+top
+tophat
+tractor
+traffic_light
+train
+train2
+tram
+triangular_flag_on_post
+triangular_ruler
+trident
+triumph
+trolleybus
+trophy
+tropical_drink
+tropical_fish
+truck
+trumpet
+tshirt
+tulip
+turtle
+tv
+twisted_rightwards_arrows
+two
+two_hearts
+two_men_holding_hands
+two_women_holding_hands
+u6e80
+uk
+umbrella
+unamused
+underage
+unlock
+up
+us
+v
+vertical_traffic_light
+vhs
+vibration_mode
+video_camera
+video_game
+violin
+virgo
+volcano
+vs
+walking
+waning_crescent_moon
+waning_gibbous_moon
+warning
+watch
+water_buffalo
+watermelon
+wave
+wavy_dash
+waxing_crescent_moon
+waxing_gibbous_moon
+wc
+weary
+wedding
+whale
+whale2
+wheelchair
+white_check_mark
+white_circle
+white_flower
+white_square_button
+wind_chime
+wine_glass
+wink
+wolf
+woman
+womans_clothes
+womans_hat
+womens
+worried
+wrench
+x
+yellow_heart
+yen
+yum
+zap
+zero
+zzz
 
 
 
