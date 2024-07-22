@@ -314,7 +314,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| :: | `::` | :: | `::` | :: | `::` |
+| :rabbit: | `:rabbit:` | :rabbit2: | `:rabbit2:` | :racehorse: | `:racehorse:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -332,9 +332,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-rabbit
-rabbit2
-racehorse
+
+
+
 radio
 radio_button
 rage
