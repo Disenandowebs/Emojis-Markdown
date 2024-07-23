@@ -317,7 +317,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :rabbit: | `:rabbit:` | :rabbit2: | `:rabbit2:` | :racehorse: | `:racehorse:` |
 | :radio: | `:radio:` | :radio_button: | `:radio_button:` | :rage: | `:rage:` |
 | :railway_car: | `:railway_car:` | :rainbow: | `:rainbow:` | :raised_hand: | `:raised_hand:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :raised_hands: | `:raised_hands:` | :raising_hand: | `:raising_hand:` | :ram: | `:ram:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -334,9 +334,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-raised_hands
-raising_hand
-ram
 ramen
 rat
 recycle
