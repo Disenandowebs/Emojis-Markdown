@@ -324,19 +324,13 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :repeat_one: | `:repeat_one:` | :restroom: | `:restroom:` | :revolving_hearts: | `:revolving_hearts:` |
 | :rewind: | `:rewind:` | :ribbon: | `:ribbon:` | :rice: | `:rice:` |
 | :rice_ball: | `:rice_ball:` | :rice_cracker: | `:rice_cracker:` | :rice_scene: | `:rice_scene:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :ring: | `:ring:` | :rocket: | `:rocket:` | :roller_coaster: | `:roller_coaster:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-
-
-ring
-rocket
-rocket
-roller_coaster
 rooster
 rose
 rotating_light
