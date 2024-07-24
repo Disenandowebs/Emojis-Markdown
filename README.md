@@ -321,7 +321,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :ramen: | `:ramen:` | :rat: | `:rat:` | :recycle: | `:recycle:` |
 | :red_car: | `:red_car:` | :red_circle: | `:red_circle:` | :registered: | `:registered:` |
 | :relaxed: | `:relaxed:` | :relieved: | `:relieved:` | :repeat: | `:repeat:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :repeat_one: | `:repeat_one:` | :restroom: | `:restroom:` | :revolving_hearts: | `:revolving_hearts:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -332,11 +332,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-
-
-repeat_one
-restroom
-revolving_hearts
 rewind
 ribbon
 rice
