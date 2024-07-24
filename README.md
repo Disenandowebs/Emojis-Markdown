@@ -320,7 +320,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :raised_hands: | `:raised_hands:` | :raising_hand: | `:raising_hand:` | :ram: | `:ram:` |
 | :ramen: | `:ramen:` | :rat: | `:rat:` | :recycle: | `:recycle:` |
 | :red_car: | `:red_car:` | :red_circle: | `:red_circle:` | :registered: | `:registered:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :relaxed: | `:relaxed:` | :relieved: | `:relieved:` | :repeat: | `:repeat:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -334,9 +334,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-relaxed
-relieved
-repeat
 repeat_one
 restroom
 revolving_hearts
