@@ -323,7 +323,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :relaxed: | `:relaxed:` | :relieved: | `:relieved:` | :repeat: | `:repeat:` |
 | :repeat_one: | `:repeat_one:` | :restroom: | `:restroom:` | :revolving_hearts: | `:revolving_hearts:` |
 | :rewind: | `:rewind:` | :ribbon: | `:ribbon:` | :rice: | `:rice:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :rice_ball: | `:rice_ball:` | :rice_cracker: | `:rice_cracker:` | :rice_scene: | `:rice_scene:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -332,9 +332,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-rice_ball
-rice_cracker
-rice_scene
+
 ring
 rocket
 rocket
