@@ -328,7 +328,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :rooster: | `:rooster:` | :rose: | `:rose:` | :rotating_light: | `:rotating_light:` |
 | :round_pushpin: | `:round_pushpin:` | :rowboat: | `:rowboat:` | :ru: | `:ru:` |
 | :rugby_football: | `:rugby_football:` | :runner: | `:runner:` | :running: | `:running:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :running_shirt_with_sash: | `:running_shirt_with_sash:` | :sa: | `:sa:` | :sagittarius: | `:sagittarius:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -342,9 +342,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-running_shirt_with_sash
-sa
-sagittarius
 sailboat
 sake
 sandal
