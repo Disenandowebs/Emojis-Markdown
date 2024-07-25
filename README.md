@@ -326,7 +326,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :rice_ball: | `:rice_ball:` | :rice_cracker: | `:rice_cracker:` | :rice_scene: | `:rice_scene:` |
 | :ring: | `:ring:` | :rocket: | `:rocket:` | :roller_coaster: | `:roller_coaster:` |
 | :rooster: | `:rooster:` | :rose: | `:rose:` | :rotating_light: | `:rotating_light:` |
-| :round_pushpin: | `:round_pushpin:` | :: | `::` | :: | `::` |
+| :round_pushpin: | `:round_pushpin:` | :rowboat: | `:rowboat:` | :ru: | `:ru:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -342,8 +342,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-rowboat
-ru
+
+
 rugby_football
 runner
 running
