@@ -330,7 +330,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :rugby_football: | `:rugby_football:` | :runner: | `:runner:` | :running: | `:running:` |
 | :running_shirt_with_sash: | `:running_shirt_with_sash:` | :sa: | `:sa:` | :sagittarius: | `:sagittarius:` |
 | :sailboat: | `:sailboat:` | :sake: | `:sake:` | :sandal: | `:sandal:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :santa: | `:santa:` | :satellite: | `:satellite:` | :satisfied: | `:satisfied:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -342,9 +342,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-santa
-satellite
-satisfied
 saxophone
 school
 school_satchel
