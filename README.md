@@ -317,7 +317,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :school: | `:school:` | :school_satchel: | `:school_satchel:` | :scissors: | `:scissors:` |
 | :scorpius: | `:scorpius:` | :scream: | `:scream:` | :scream_cat: | `:scream_cat:` |
 | :scroll: | `:scroll:` | :seat: | `:seat:` | :secret: | `:secret:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :see_no_evil: | `:see_no_evil:` | :seedling: | `:seedling:` | :seven: | `:seven:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -325,10 +325,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-
-see_no_evil
-seedling
-seven
 shaved_ice
 sheep
 shell
