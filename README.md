@@ -316,7 +316,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :satellite: | `:satellite:` | :satisfied: | `:satisfied:` | :saxophone: | `:saxophone:` |
 | :school: | `:school:` | :school_satchel: | `:school_satchel:` | :scissors: | `:scissors:` |
 | :scorpius: | `:scorpius:` | :scream: | `:scream:` | :scream_cat: | `:scream_cat:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :scroll: | `:scroll:` | :seat: | `:seat:` | :secret: | `:secret:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -326,11 +326,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-
-
-scroll
-seat
-secret
 see_no_evil
 seedling
 seven
