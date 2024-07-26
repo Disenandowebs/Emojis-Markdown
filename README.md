@@ -318,16 +318,19 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :scorpius: | `:scorpius:` | :scream: | `:scream:` | :scream_cat: | `:scream_cat:` |
 | :scroll: | `:scroll:` | :seat: | `:seat:` | :secret: | `:secret:` |
 | :see_no_evil: | `:see_no_evil:` | :seedling: | `:seedling:` | :seven: | `:seven:` |
+| :shaved_ice: | `:shaved_ice:` | :sheep: | `:sheep:` | :shell: | `:shell:` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-
-
-shaved_ice
-sheep
-shell
 ship
 shirt
 shit
