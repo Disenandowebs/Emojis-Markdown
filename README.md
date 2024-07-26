@@ -260,14 +260,13 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :open_hands: | `:open_hands:` | :open_mouth: | `:open_mouth:` | :ophiuchus: | `:ophiuchus:` |
 | :orange_book: | `:orange_book:` | :outbox_tray: | `:outbox_tray:` | :ox: | `:ox:` |
 
-## LETRA O :o:
+## LETRA P :pizza:
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :page_facing_up: | `:page_facing_up:` | :page_with_curl: | `:page_with_curl:` | :pager: | `:pager:` |
 | :palm_tree: | `:palm_tree:` | :panda_face: | `:panda_face:` | :paperclip: | `:paperclip:` |
-| :parking: | `:parking:` | :part_alternation_mark: | `:part_alternation_mark:` | :part_alternation_mark: | `:part_alternation_mark:` |
-| :partly_sunny: | `:partly_sunny:` | :passport_control: | `:passport_control:` | :paw_prints: | `:paw_prints:` |
+| :parking: | `:parking:` | :part_alternation_mark: | `:part_alternation_mark:` | :partly_sunny: | `:partly_sunny:` |
 | :peach: | `:peach:` | :pear: | `:pear:` | :pencil: | `:pencil:` |
 | :pencil2: | `:pencil2:` | :penguin: | `:penguin:` | :pensive: | `:pensive:` |
 | :performing_arts: | `:performing_arts:` | :persevere: | `:persevere:` | :phone: | `:phone:` |
@@ -281,28 +280,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :pound: | `:pound:` | :pouting_cat: | `:pouting_cat:` | :pray: | `:pray:` |
 | :princess: | `:princess:` | :punch: | `:punch:` | :purple_heart: | `:purple_heart:` |
 | :purse: | `:purse:` | :pushpin: | `:pushpin:` | :put_litter_in_its_place: | `:put_litter_in_its_place:` |
-
-## LETRA P :parking:
-
-| Emoji  | código | Emoji  | código | Emoji  | código |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| :page_facing_up: | `:page_facing_up:` | :page_with_curl: | `:page_with_curl:` | :pager: | `:pager:` |
-| :palm_tree: | `:palm_tree:` | :panda_face: | `:panda_face:` | :paperclip: | `:paperclip:` |
-| :parking: | `:parking:` | :part_alternation_mark: | `:part_alternation_mark:` | :partly_sunny: | `:partly_sunny:` |
-| :passport_control: | `:passport_control:` | :paw_prints: | `:paw_prints:` | :peach: | `:peach:` |
-| :pear: | `:pear:` | :pencil: | `:pencil:` | :pencil2: | `:pencil2:` |
-| :penguin: | `:penguin:` | :pensive: | `:pensive:` | :performing_arts: | `:performing_arts:` |
-| :persevere: | `:persevere:` | :phone: | `:phone:` | :pig: | `:pig:` |
-| :pig_nose: | `:pig_nose:` | :pig2: | `:pig2:` | :pill: | `:pill:` |
-| :pineapple: | `:pineapple:` | :pisces: | `:pisces:` | :pizza: | `:pizza:` |
-| :point_down: | `:point_down:` | :point_left: | `:point_left:` | :point_right: | `:point_right:` |
-| :point_up: | `:point_up:` | :point_up_2: | `:point_up_2:` | :police_car: | `:police_car:` |
-| :poodle: | `:poodle:` | :poop: | `:poop:` | :post_office: | `:post_office:` |
-| :postal_horn: | `:postal_horn:` | :postbox: | `:postbox:` | :potable_water: | `:potable_water:` |
-| :pouch: | `:pouch:` | :poultry_leg: | `:poultry_leg:` | :pound: | `:pound:` |
-| :pouting_cat: | `:pouting_cat:` | :pray: | `:pray:` | :princess: | `:princess:` |
-| :punch: | `:punch:` | :purple_heart: | `:purple_heart:` | :purse: | `:purse:` |
-| :pushpin: | `:pushpin:` | :put_litter_in_its_place: | `:put_litter_in_its_place:` |  |  |
 
 ## LETRA Q :question:
 
