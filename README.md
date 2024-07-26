@@ -315,7 +315,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :sake: | `:sake:` | :sandal: | `:sandal:` | :santa: | `:santa:` |
 | :satellite: | `:satellite:` | :satisfied: | `:satisfied:` | :saxophone: | `:saxophone:` |
 | :school: | `:school:` | :school_satchel: | `:school_satchel:` | :scissors: | `:scissors:` |
-| :scorpius: | `:scorpius:` | :: | `::` | :: | `::` |
+| :scorpius: | `:scorpius:` | :scream: | `:scream:` | :scream_cat: | `:scream_cat:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -326,8 +326,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-scream
-scream_cat
+
+
 scroll
 seat
 secret
