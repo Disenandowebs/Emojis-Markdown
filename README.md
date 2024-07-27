@@ -319,7 +319,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :scroll: | `:scroll:` | :seat: | `:seat:` | :secret: | `:secret:` |
 | :see_no_evil: | `:see_no_evil:` | :seedling: | `:seedling:` | :seven: | `:seven:` |
 | :shaved_ice: | `:shaved_ice:` | :sheep: | `:sheep:` | :shell: | `:shell:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :ship: | `:ship:` | :shirt: | `:shirt:` | :shit: | `:shit:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -331,9 +331,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-ship
-shirt
-shit
+
+
+
 shoe
 shower
 signal_strength
