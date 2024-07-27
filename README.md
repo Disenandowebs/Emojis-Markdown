@@ -321,7 +321,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :shaved_ice: | `:shaved_ice:` | :sheep: | `:sheep:` | :shell: | `:shell:` |
 | :ship: | `:ship:` | :shirt: | `:shirt:` | :shit: | `:shit:` |
 | :shoe: | `:shoe:` | :shower: | `:shower:` | :signal_strength: | `:signal_strength:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :six: | `:six:` | :six_pointed_star: | `:six_pointed_star:` | :ski: | `:ski:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -332,9 +332,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-six
-six_pointed_star
-ski
 skull
 sleeping
 sleepy
