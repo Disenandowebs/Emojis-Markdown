@@ -322,7 +322,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :ship: | `:ship:` | :shirt: | `:shirt:` | :shit: | `:shit:` |
 | :shoe: | `:shoe:` | :shower: | `:shower:` | :signal_strength: | `:signal_strength:` |
 | :six: | `:six:` | :six_pointed_star: | `:six_pointed_star:` | :ski: | `:ski:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :skull: | `:skull:` | :sleeping: | `:sleeping:` | :sleepy: | `:sleepy:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -331,10 +331,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-
-skull
-sleeping
-sleepy
 slot_machine
 small_blue_diamond
 small_orange_diamond
