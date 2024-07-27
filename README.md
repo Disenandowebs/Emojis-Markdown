@@ -320,7 +320,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :see_no_evil: | `:see_no_evil:` | :seedling: | `:seedling:` | :seven: | `:seven:` |
 | :shaved_ice: | `:shaved_ice:` | :sheep: | `:sheep:` | :shell: | `:shell:` |
 | :ship: | `:ship:` | :shirt: | `:shirt:` | :shit: | `:shit:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :shoe: | `:shoe:` | :shower: | `:shower:` | :signal_strength: | `:signal_strength:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -332,11 +332,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-
-
-shoe
-shower
-signal_strength
 six
 six_pointed_star
 ski
