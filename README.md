@@ -326,7 +326,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :slot_machine: | `:slot_machine:` | :small_blue_diamond: | `:small_blue_diamond:` | :small_orange_diamond: | `:small_orange_diamond:` |
 | :small_red_triangle: | `:small_red_triangle:` | :small_red_triangle_down: | `:small_red_triangle_down:` | :smile: | `:smile:` |
 | :smile_cat: | `:smile_cat:` | :smiley: | `:smiley:` | :smiley_cat: | `:smiley_cat:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :smiling_imp: | `:smiling_imp:` | :smirk: | `:smirk:` | :smirk_cat: | `:smirk_cat:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -342,9 +342,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-smiling_imp
-smirk
-smirk_cat
 smoking
 snail
 snake
