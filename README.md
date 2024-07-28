@@ -327,7 +327,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :small_red_triangle: | `:small_red_triangle:` | :small_red_triangle_down: | `:small_red_triangle_down:` | :smile: | `:smile:` |
 | :smile_cat: | `:smile_cat:` | :smiley: | `:smiley:` | :smiley_cat: | `:smiley_cat:` |
 | :smiling_imp: | `:smiling_imp:` | :smirk: | `:smirk:` | :smirk_cat: | `:smirk_cat:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :smoking: | `:smoking:` | :snail: | `:snail:` | :snake: | `:snake:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -342,9 +342,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-smoking
-snail
-snake
 snowboarder
 snowflake
 snowman
