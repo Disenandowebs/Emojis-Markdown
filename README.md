@@ -324,7 +324,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :six: | `:six:` | :six_pointed_star: | `:six_pointed_star:` | :ski: | `:ski:` |
 | :skull: | `:skull:` | :sleeping: | `:sleeping:` | :sleepy: | `:sleepy:` |
 | :slot_machine: | `:slot_machine:` | :small_blue_diamond: | `:small_blue_diamond:` | :small_orange_diamond: | `:small_orange_diamond:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :small_red_triangle: | `:small_red_triangle:` | :small_red_triangle_down: | `:small_red_triangle_down:` | :smile: | `:smile:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -332,9 +332,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-small_red_triangle
-small_red_triangle_down
-smile
 smile_cat
 smiley
 smiley_cat
