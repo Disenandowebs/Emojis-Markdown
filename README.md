@@ -328,7 +328,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :smile_cat: | `:smile_cat:` | :smiley: | `:smiley:` | :smiley_cat: | `:smiley_cat:` |
 | :smiling_imp: | `:smiling_imp:` | :smirk: | `:smirk:` | :smirk_cat: | `:smirk_cat:` |
 | :smoking: | `:smoking:` | :snail: | `:snail:` | :snake: | `:snake:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :snowboarder: | `:snowboarder:` | :snowflake: | `:snowflake:` | :snowman: | `:snowman:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -342,9 +342,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-snowboarder
-snowflake
-snowman
 sob
 soccer
 soon
