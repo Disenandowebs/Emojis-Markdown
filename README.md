@@ -330,7 +330,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :smoking: | `:smoking:` | :snail: | `:snail:` | :snake: | `:snake:` |
 | :snowboarder: | `:snowboarder:` | :snowflake: | `:snowflake:` | :snowman: | `:snowman:` |
 | :sob: | `:sob:` | :soccer: | `:soccer:` | :soon: | `:soon:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :sos: | `:sos:` | :sound: | `:sound:` | :space_invader: | `:space_invader:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -342,9 +342,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-sos
-sound
-space_invader
 spades
 spaghetti
 sparkler
