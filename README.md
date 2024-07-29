@@ -333,6 +333,13 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :sos: | `:sos:` | :sound: | `:sound:` | :space_invader: | `:space_invader:` |
 | :spades: | `:spades:` | :spaghetti: | `:spaghetti:` | :sparkler: | `:sparkler:` |
 | :sparkles: | `:sparkles:` | :sparkling_heart: | `:sparkling_heart:` | :speak_no_evil: | `:speak_no_evil:` |
+| :speaker: | `:speaker:` | :speech_balloon: | `:speech_balloon:` | :speedboat: | `:speedboat:` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -342,9 +349,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-speaker
-speech_balloon
-speedboat
 star
 star2
 stars
