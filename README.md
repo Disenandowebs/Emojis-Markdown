@@ -335,7 +335,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :sparkles: | `:sparkles:` | :sparkling_heart: | `:sparkling_heart:` | :speak_no_evil: | `:speak_no_evil:` |
 | :speaker: | `:speaker:` | :speech_balloon: | `:speech_balloon:` | :speedboat: | `:speedboat:` |
 | :star: | `:star:` | :star2: | `:star2:` | :stars: | `:stars:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :station: | `:station:` | :statue_of_liberty: | `:statue_of_liberty:` | :steam_locomotive: | `:steam_locomotive:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -349,9 +349,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-station
-statue_of_liberty
-steam_locomotive
 stew
 straight_ruler
 strawberry
