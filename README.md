@@ -331,7 +331,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :snowboarder: | `:snowboarder:` | :snowflake: | `:snowflake:` | :snowman: | `:snowman:` |
 | :sob: | `:sob:` | :soccer: | `:soccer:` | :soon: | `:soon:` |
 | :sos: | `:sos:` | :sound: | `:sound:` | :space_invader: | `:space_invader:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :spades: | `:spades:` | :spaghetti: | `:spaghetti:` | :sparkler: | `:sparkler:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -342,9 +342,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-spades
-spaghetti
-sparkler
 sparkles
 sparkling_heart
 speak_no_evil
