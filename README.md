@@ -337,7 +337,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :star: | `:star:` | :star2: | `:star2:` | :stars: | `:stars:` |
 | :station: | `:station:` | :statue_of_liberty: | `:statue_of_liberty:` | :steam_locomotive: | `:steam_locomotive:` |
 | :stew: | `:stew:` | :straight_ruler: | `:straight_ruler:` | :strawberry: | `:strawberry:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :stuck_out_tongue: | `:stuck_out_tongue:` | :stuck_out_tongue_closed_eyes: | `:stuck_out_tongue_closed_eyes:` | :stuck_out_tongue_winking_eye: | `:stuck_out_tongue_winking_eye:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -349,9 +349,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-stuck_out_tongue
-stuck_out_tongue_closed_eyes
-stuck_out_tongue_winking_eye
 sun_with_face
 sunflower
 sunglasses
