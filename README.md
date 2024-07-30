@@ -339,7 +339,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :stew: | `:stew:` | :straight_ruler: | `:straight_ruler:` | :strawberry: | `:strawberry:` |
 | :stuck_out_tongue: | `:stuck_out_tongue:` | :stuck_out_tongue_closed_eyes: | `:stuck_out_tongue_closed_eyes:` | :stuck_out_tongue_winking_eye: | `:stuck_out_tongue_winking_eye:` |
 | :sun_with_face: | `:sun_with_face:` | :sunflower: | `:sunflower:` | :sunglasses: | `:sunglasses:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :sunny: | `:sunny:` | :sunrise: | `:sunrise:` | :sunrise_over_mountains: | `:sunrise_over_mountains:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -348,10 +348,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-
-sunny
-sunrise
-sunrise_over_mountains
 surfer
 sushi
 suspension_railway
