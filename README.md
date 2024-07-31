@@ -341,7 +341,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :sun_with_face: | `:sun_with_face:` | :sunflower: | `:sunflower:` | :sunglasses: | `:sunglasses:` |
 | :sunny: | `:sunny:` | :sunrise: | `:sunrise:` | :sunrise_over_mountains: | `:sunrise_over_mountains:` |
 | :surfer: | `:surfer:` | :sushi: | `:sushi:` | :suspension_railway: | `:suspension_railway:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :sweat: | `:sweat:` | :sweat_drops: | `:sweat_drops:` | :sweat_smile: | `:sweat_smile:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -363,9 +363,8 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-sweat
-sweat_drops
-sweat_smile
+
+
 sweet_potato
 swimmer
 symbols
