@@ -343,8 +343,13 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :surfer: | `:surfer:` | :sushi: | `:sushi:` | :suspension_railway: | `:suspension_railway:` |
 | :sweat: | `:sweat:` | :sweat_drops: | `:sweat_drops:` | :sweat_smile: | `:sweat_smile:` |
 | :sweet_potato: | `:sweet_potato:` | :swimmer: | `:swimmer:` | :symbols: | `:symbols:` |
-| :: | `::` | :: | `::` | :: | `::` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :syringe: | `:syringe:` |  |  |  |  |
+
+## LETRA T ::
+
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| :tada: | `:tada:` | :tanabata_tree: | `:tanabata_tree:` | :tangerine: | `:tangerine:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -363,10 +368,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-syringe
-tada
-tanabata_tree
-tangerine
 taurus
 taxi
 tea
