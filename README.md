@@ -342,7 +342,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :sunny: | `:sunny:` | :sunrise: | `:sunrise:` | :sunrise_over_mountains: | `:sunrise_over_mountains:` |
 | :surfer: | `:surfer:` | :sushi: | `:sushi:` | :suspension_railway: | `:suspension_railway:` |
 | :sweat: | `:sweat:` | :sweat_drops: | `:sweat_drops:` | :sweat_smile: | `:sweat_smile:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :sweet_potato: | `:sweet_potato:` | :swimmer: | `:swimmer:` | :symbols: | `:symbols:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -363,11 +363,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-
-
-sweet_potato
-swimmer
-symbols
 syringe
 tada
 tanabata_tree
