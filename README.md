@@ -340,6 +340,20 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :stuck_out_tongue: | `:stuck_out_tongue:` | :stuck_out_tongue_closed_eyes: | `:stuck_out_tongue_closed_eyes:` | :stuck_out_tongue_winking_eye: | `:stuck_out_tongue_winking_eye:` |
 | :sun_with_face: | `:sun_with_face:` | :sunflower: | `:sunflower:` | :sunglasses: | `:sunglasses:` |
 | :sunny: | `:sunny:` | :sunrise: | `:sunrise:` | :sunrise_over_mountains: | `:sunrise_over_mountains:` |
+| :surfer: | `:surfer:` | :sushi: | `:sushi:` | :suspension_railway: | `:suspension_railway:` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -348,9 +362,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-surfer
-sushi
-suspension_railway
+
 sweat
 sweat_drops
 sweat_smile
