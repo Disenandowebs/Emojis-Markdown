@@ -353,7 +353,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :taurus: | `:taurus:` | :taxi: | `:taxi:` | :tea: | `:tea:` |
 | :telephone: | `:telephone:` | :telephone_receiver: | `:telephone_receiver:` | :telescope: | `:telescope:` |
 | :tennis: | `:tennis:` | :tent: | `:tent:` | :thought_balloon: | `:thought_balloon:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :three: | `:three:` | :thumbsdown: | `:thumbsdown:` | :thumbsup: | `:thumbsup:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -368,9 +368,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-three
-thumbsdown
-thumbsup
 ticket
 tiger
 tiger2
