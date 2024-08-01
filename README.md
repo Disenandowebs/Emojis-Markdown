@@ -354,7 +354,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :telephone: | `:telephone:` | :telephone_receiver: | `:telephone_receiver:` | :telescope: | `:telescope:` |
 | :tennis: | `:tennis:` | :tent: | `:tent:` | :thought_balloon: | `:thought_balloon:` |
 | :three: | `:three:` | :thumbsdown: | `:thumbsdown:` | :thumbsup: | `:thumbsup:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :ticket: | `:ticket:` | :tiger: | `:tiger:` | :tiger2: | `:tiger2:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -367,10 +367,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-
-ticket
-tiger
-tiger2
 tired_face
 tm
 toilet
