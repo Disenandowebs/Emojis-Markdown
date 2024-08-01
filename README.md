@@ -345,7 +345,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :sweet_potato: | `:sweet_potato:` | :swimmer: | `:swimmer:` | :symbols: | `:symbols:` |
 | :syringe: | `:syringe:` |  |  |  |  |
 
-## LETRA T ::
+## LETRA T :tm:
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -355,7 +355,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :tennis: | `:tennis:` | :tent: | `:tent:` | :thought_balloon: | `:thought_balloon:` |
 | :three: | `:three:` | :thumbsdown: | `:thumbsdown:` | :thumbsup: | `:thumbsup:` |
 | :ticket: | `:ticket:` | :tiger: | `:tiger:` | :tiger2: | `:tiger2:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :tired_face: | `:tired_face:` | :tm: | `:tm:` | :toilet: | `:toilet:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -367,9 +367,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-tired_face
-tm
-toilet
+
 tokyo_tower
 tomato
 tongue
