@@ -350,7 +350,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :tada: | `:tada:` | :tanabata_tree: | `:tanabata_tree:` | :tangerine: | `:tangerine:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :taurus: | `:taurus:` | :taxi: | `:taxi:` | :tea: | `:tea:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -368,9 +368,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-taurus
-taxi
-tea
+
 telephone
 telephone_receiver
 telescope
