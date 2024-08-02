@@ -359,7 +359,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :tokyo_tower: | `:tokyo_tower:` | :tomato: | `:tomato:` | :tongue: | `:tongue:` |
 | :top: | `:top:` | :tophat: | `:tophat:` | :tractor: | `:tractor:` |
 | :traffic_light: | `:traffic_light:` | :train: | `:train:` | :train2: | `:train2:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :tram: | `:tram:` | :triangular_flag_on_post: | `:triangular_flag_on_post:` | :triangular_ruler: | `:triangular_ruler:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -368,9 +368,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-tram
-triangular_flag_on_post
-triangular_ruler
 trident
 triumph
 trolleybus
