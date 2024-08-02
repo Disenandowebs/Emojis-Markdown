@@ -360,7 +360,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :top: | `:top:` | :tophat: | `:tophat:` | :tractor: | `:tractor:` |
 | :traffic_light: | `:traffic_light:` | :train: | `:train:` | :train2: | `:train2:` |
 | :tram: | `:tram:` | :triangular_flag_on_post: | `:triangular_flag_on_post:` | :triangular_ruler: | `:triangular_ruler:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :trident: | `:trident:` | :triumph: | `:triumph:` | :trolleybus: | `:trolleybus:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -368,9 +368,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-trident
-triumph
-trolleybus
 trophy
 tropical_drink
 tropical_fish
