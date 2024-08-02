@@ -357,7 +357,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :ticket: | `:ticket:` | :tiger: | `:tiger:` | :tiger2: | `:tiger2:` |
 | :tired_face: | `:tired_face:` | :tm: | `:tm:` | :toilet: | `:toilet:` |
 | :tokyo_tower: | `:tokyo_tower:` | :tomato: | `:tomato:` | :tongue: | `:tongue:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :top: | `:top:` | :tophat: | `:tophat:` | :tractor: | `:tractor:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -369,9 +369,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 
 
 
-top
-tophat
-tractor
+
 traffic_light
 train
 train2
