@@ -362,14 +362,14 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :tram: | `:tram:` | :triangular_flag_on_post: | `:triangular_flag_on_post:` | :triangular_ruler: | `:triangular_ruler:` |
 | :trident: | `:trident:` | :triumph: | `:triumph:` | :trolleybus: | `:trolleybus:` |
 | :trophy: | `:trophy:` | :tropical_drink: | `:tropical_drink:` | :tropical_fish: | `:tropical_fish:` |
-| :truck: | `:truck:` | :: | `::` | :: | `::` |
+| :truck: | `:truck:` | :trumpet: | `:trumpet:` | :tshirt: | `:tshirt:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-trumpet
-tshirt
+
+
 tulip
 turtle
 tv
