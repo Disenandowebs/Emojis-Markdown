@@ -372,7 +372,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :u6e80: | `:u6e80:` | :uk: | `:uk:` | :umbrella: | `:umbrella:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :unamused: | `:unamused:` | :underage: | `:underage:` | :unlock: | `:unlock:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -384,9 +384,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-unamused
-underage
-unlock
+
 up
 us
 v
