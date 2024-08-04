@@ -363,16 +363,23 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :trident: | `:trident:` | :triumph: | `:triumph:` | :trolleybus: | `:trolleybus:` |
 | :trophy: | `:trophy:` | :tropical_drink: | `:tropical_drink:` | :tropical_fish: | `:tropical_fish:` |
 | :truck: | `:truck:` | :trumpet: | `:trumpet:` | :tshirt: | `:tshirt:` |
+| :tulip: | `:tulip:` | :turtle: | `:turtle:` | :tv: | `:tv:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
+| :: | `::` | :: | `::` | :: | `::` |
 
 
-
-
-tulip
-turtle
-tv
 twisted_rightwards_arrows
 two
 two_hearts
