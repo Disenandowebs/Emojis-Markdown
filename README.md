@@ -382,7 +382,9 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :v: | `:v:` | :vertical_traffic_light: | `:vertical_traffic_light:` | :vhs: | `:vhs:` |
 | :vibration_mode: | `:vibration_mode:` | :video_camera: | `:video_camera:` | :video_game: | `:video_game:` |
 | :violin: | `:violin:` | :virgo: | `:virgo:` | :volcano: | `:volcano:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :vs: | `:vs:` |  |  |  |  |
+
+
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -390,7 +392,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-vs
+
 walking
 waning_crescent_moon
 waning_gibbous_moon
