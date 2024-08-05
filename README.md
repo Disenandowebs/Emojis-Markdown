@@ -375,7 +375,10 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :unamused: | `:unamused:` | :underage: | `:underage:` | :unlock: | `:unlock:` |
 | :up: | `:up:` | :us: | `:us:` |  |  |
 
+## LETRA V :v:
 
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
