@@ -367,13 +367,15 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :twisted_rightwards_arrows: | `:twisted_rightwards_arrows:` | :two: | `:two:` | :two_hearts: | `:two_hearts:` |
 | :two_men_holding_hands: | `:two_men_holding_hands:` | :two_women_holding_hands: | `:two_women_holding_hands:` |  |  |
 
-## LETRA U ::
+## LETRA U :up:
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :u6e80: | `:u6e80:` | :uk: | `:uk:` | :umbrella: | `:umbrella:` |
 | :unamused: | `:unamused:` | :underage: | `:underage:` | :unlock: | `:unlock:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :up: | `:up:` | :us: | `:us:` |  |  |
+
+
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -385,8 +387,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-up
-us
 v
 vertical_traffic_light
 vhs
