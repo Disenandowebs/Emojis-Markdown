@@ -390,7 +390,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :walking: | `:walking:` | :waning_crescent_moon: | `:waning_crescent_moon:` | :waning_gibbous_moon: | `:waning_gibbous_moon:` |
 | :warning: | `:warning:` | :watch: | `:watch:` | :water_buffalo: | `:water_buffalo:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :watermelon: | `:watermelon:` | :wave: | `:wave:` | :wavy_dash: | `:wavy_dash:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -405,9 +405,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-watermelon
-wave
-wavy_dash
 waxing_crescent_moon
 waxing_gibbous_moon
 wc
