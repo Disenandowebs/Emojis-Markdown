@@ -384,12 +384,12 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :violin: | `:violin:` | :virgo: | `:virgo:` | :volcano: | `:volcano:` |
 | :vs: | `:vs:` |  |  |  |  |
 
-## LETRA V :v:
+## LETRA W :v:
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :walking: | `:walking:` | :waning_crescent_moon: | `:waning_crescent_moon:` | :waning_gibbous_moon: | `:waning_gibbous_moon:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :warning: | `:warning:` | :watch: | `:watch:` | :water_buffalo: | `:water_buffalo:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -405,9 +405,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-warning
-watch
-water_buffalo
 watermelon
 wave
 wavy_dash
