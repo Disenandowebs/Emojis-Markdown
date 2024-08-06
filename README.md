@@ -393,7 +393,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :watermelon: | `:watermelon:` | :wave: | `:wave:` | :wavy_dash: | `:wavy_dash:` |
 | :waxing_crescent_moon: | `:waxing_crescent_moon:` | :waxing_gibbous_moon: | `:waxing_gibbous_moon:` | :wc: | `:wc:` |
 | :weary: | `:weary:` | :wedding: | `:wedding:` | :whale: | `:whale:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :whale2: | `:whale2:` | :wheelchair: | `:wheelchair:` | :white_check_mark: | `:white_check_mark:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -405,9 +405,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-whale2
-wheelchair
-white_check_mark
 white_circle
 white_flower
 white_square_button
