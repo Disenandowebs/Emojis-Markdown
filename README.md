@@ -397,7 +397,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :white_circle: | `:white_circle:` | :white_flower: | `:white_flower:` | :white_square_button: | `:white_square_button:` |
 | :wind_chime: | `:wind_chime:` | :wine_glass: | `:wine_glass:` | :wink: | `:wink:` |
 | :wolf: | `:wolf:` | :woman: | `:woman:` | :womans_clothes: | `:womans_clothes:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :womans_hat: | `:womans_hat:` | :womens: | `:womens:` | :worried: | `:worried:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -405,9 +405,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-womans_hat
-womens
-worried
 wrench
 x
 yellow_heart
