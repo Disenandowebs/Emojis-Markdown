@@ -384,7 +384,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :violin: | `:violin:` | :virgo: | `:virgo:` | :volcano: | `:volcano:` |
 | :vs: | `:vs:` |  |  |  |  |
 
-## LETRA W :v:
+## LETRA W :watch:
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -399,12 +399,17 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :wolf: | `:wolf:` | :woman: | `:woman:` | :womans_clothes: | `:womans_clothes:` |
 | :womans_hat: | `:womans_hat:` | :womens: | `:womens:` | :worried: | `:worried:` |
 | :wrench: | `:wrench:` |  |  |  |  |
-| :: | `::` | :: | `::` | :: | `::` |
+
+## LETRA X :x:
+
+| Emoji  | código | Emoji  | código | Emoji  | código |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| :x: | `:x:` |  |  |  |  |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-x
+
 yellow_heart
 yen
 yum
