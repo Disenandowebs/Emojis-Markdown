@@ -398,14 +398,12 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :wind_chime: | `:wind_chime:` | :wine_glass: | `:wine_glass:` | :wink: | `:wink:` |
 | :wolf: | `:wolf:` | :woman: | `:woman:` | :womans_clothes: | `:womans_clothes:` |
 | :womans_hat: | `:womans_hat:` | :womens: | `:womens:` | :worried: | `:worried:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :wrench: | `:wrench:` |  |  |  |  |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
-
-wrench
 x
 yellow_heart
 yen
