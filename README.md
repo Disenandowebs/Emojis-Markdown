@@ -394,7 +394,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :waxing_crescent_moon: | `:waxing_crescent_moon:` | :waxing_gibbous_moon: | `:waxing_gibbous_moon:` | :wc: | `:wc:` |
 | :weary: | `:weary:` | :wedding: | `:wedding:` | :whale: | `:whale:` |
 | :whale2: | `:whale2:` | :wheelchair: | `:wheelchair:` | :white_check_mark: | `:white_check_mark:` |
-| :: | `::` | :: | `::` | :: | `::` |
+| :white_circle: | `:white_circle:` | :white_flower: | `:white_flower:` | :white_square_button: | `:white_square_button:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
@@ -405,9 +405,6 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-white_circle
-white_flower
-white_square_button
 wind_chime
 wine_glass
 wink
