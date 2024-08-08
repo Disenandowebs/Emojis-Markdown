@@ -406,7 +406,7 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :x: | `:x:` |  |  |  |  |
 
-## LETRA Y ::
+## LETRA Y :yum:
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -417,71 +417,3 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :zap: | `:zap:` | :zero: | `:zero:` | :zzz: | `:zzz:` |
-| :: | `::` | :: | `::` | :: | `::` |
-| :: | `::` | :: | `::` | :: | `::` |
-| :: | `::` | :: | `::` | :: | `::` |
-| :: | `::` | :: | `::` | :: | `::` |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://platzi.com/comunidad/listado-completo-de-emojis-en-markdown/
-
-https://gist.github.com/rxaviers/7360908
-
-https://github.com/ikatyang/emoji-cheat-sheet
