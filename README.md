@@ -412,20 +412,18 @@ Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicacio
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :yellow_heart: | `:yellow_heart:` | :yen: | `:yen:` | :yum: | `:yum:` |
 
-## LETRA Z ::
+## LETRA Z :zzz:
 
 | Emoji  | código | Emoji  | código | Emoji  | código |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| :: | `::` | :: | `::` | :: | `::` |
+| :zap: | `:zap:` | :zero: | `:zero:` | :zzz: | `:zzz:` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 | :: | `::` | :: | `::` | :: | `::` |
 
 
-zap
-zero
-zzz
+
 
 
 
