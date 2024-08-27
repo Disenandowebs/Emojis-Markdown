@@ -1,3 +1,8 @@
+![Static Badge](https://img.shields.io/badge/ESTADO-FINALIZADO-6B3D3?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/Lenguaje-Markdown-blue?style=flat)
+![Static Badge](https://img.shields.io/badge/Tipo%20documentaci%C3%B3n-Gu%C3%ADa_Tutorial-8A2DE2?style=flat)
+
 # Emojis para Markdown
 
 Esta es una lista de la mayoría de emojis que se usan en todo tipo de aplicaciones, que también pueden ser usados para Markdown en repositorios de Github. Están ordenados en orden alfabético y no por las categorías comunes, al menos así es más fácil para mi encontrar el emoji que me interesa encontrar. Como consejo para la búsqueda es mejor utilizar el idioma Inglés.
